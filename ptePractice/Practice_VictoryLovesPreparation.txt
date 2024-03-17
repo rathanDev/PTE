@@ -138,6 +138,57 @@ pteMagicMockTest_17 on 16Mar2024  -
 On Sun17Mar2024
 
 ----- -----
+# FIB_L 
+
+# Energy 
+    energy-scarce 
+    overburdened 
+
+#51 Crimes
+    injustices  
+    staggering      *r 
+    outpatient 
+
+#52 US Crime
+    Afterward you may have a hard time relating the experience to the _context_ of the assumptions of your life
+    enforcement 
+
+#53 Coca-Cola
+    philosophy 
+
+#54 Efficacy of Advertising
+    he was about to take his _hacksaw_ and cut off the leg
+    appropriate 
+
+#47 Mars Mission
+    astronauts 
+    insulation 
+       ^
+
+# Million
+    priorities 
+    opportunities 
+
+#28 Management Foundation Degree
+    initiatives 
+    pragmatic approach 
+
+#29 Job Loss
+    Latino workers had achieved their _historic_ low unemployment rate
+    distinguish 
+
+
+# Engineering 
+    prowess 
+        -   skill or expertise 
+
+#31 Valentine's Day
+    slips of paper 
+
+#32 American National Holiday
+
+
+----- -----
 # FIB_R 
 
 #926 Polynesians
@@ -173,7 +224,8 @@ On Sun17Mar2024
         -   require, complex, unlikely, precise 
     :
     let alone 
-        -   used to indicate that something is far less likely or suitable than something else already mentioned.
+        -   used to indicate that something is far less likely or suitable 
+            than something else already mentioned.
                 "he was incapable of leading a bowling team, let alone a country"
     :
     Even if we try really hard, it's unlikely that we'll be able to give an hour's notice before an earthquake happens. And it's even harder to predict exactly when, where, and how big the earthquake will be.
@@ -390,6 +442,7 @@ On Sun17Mar2024
         -   comes, sleeves, turns, syllables, pick 
     :
     knack 
+        - natural skill
         -   an acquired or natural skill at doing something.
             "he had a knack for communicating"
     latch 
