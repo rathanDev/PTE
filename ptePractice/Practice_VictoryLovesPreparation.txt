@@ -325,6 +325,94 @@ On Sun17Mar2024
 
 
 
+#949 Evolution of Cinema
+    The evolution of cinema, from its humble ______ to its current status as a global cultural phenomenon, is a testament to the ________ of storytelling through moving images. The Lumière brothers, pioneers of early film, first projected motion pictures to a mesmerized audience in 1895, ________ the birth of cinema as we know it. Since _______, the art of filmmaking has grown and diversified, _______ boundaries of language and culture.
+
+    then    transcending    power   beginnings  stating     marking     mixture     after   occupying   loan
+    :
+    :
+    :
+    :
+    :
+    ans
+        -   beginnings, power, marking, then, transcending 
+    :
+    transcending
+        -   go beyond 
+    testament 
+        -   proof 
+
+
+#950 Fossil Fuel
+    In an era where our dependence on fossil fuels threatens the very planet we _______, green energy initiatives have sprung up worldwide. Governments across the globe have _______ stringent criteria and certification processes for producers of green energy. These standards, recognized by international environmental organizations, _______ that renewable energy sources are ________ in an eco-friendly manner.
+
+    established     cooperated      inhabit     ensure      access      compose     aided       harnessed
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   inhabit, established, ensure, harnessed 
+    :
+    The phrase "renewable energy sources are harnessed in an eco-friendly manner" means
+        that renewable energy sources, such as solar, wind, hydroelectric, and geothermal energy, are utilized 
+        or captured in a way that minimizes harm to the environment.
+    "Harnessing" renewable energy sources refers 
+        to the process of capturing or using these sources to generate electricity or perform other tasks.
+
+
+
+#951 Pandemic
+    The COVID-19 pandemic accelerated the shift to remote work, transforming work culture. While it offers flexibility and the chance to _______ down on commuting-related emissions, concerns about burnout and maintaining work-life balance _______. Companies are now exploring hybrid models to combine the best of both _______.
+
+    persist     worlds      draw        careers     exhibit     cut
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   cut, persist, worlds 
+
+
+
+#952 Language Learning
+    When it ______ to the magical world of language learning in toddlers, you'd be surprised at the tricks up their tiny _______. It ________ out, 18-month-olds have a knack for latching onto words with a bit of repetition. Researchers have been peering into the minds of these linguistic geniuses and found that names with repeated _______, like "choo-choo" or "ma-ma", are easier for these pint-sized scholars to ________ up.
+
+    turns   pick    comes   get     passes      seems   syllables   parcels     sleeves     strokes
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   comes, sleeves, turns, syllables, pick 
+    :
+    knack 
+        -   an acquired or natural skill at doing something.
+            "he had a knack for communicating"
+    latch 
+        -   fasten (a door or gate) with a latch.
+            "she latched the door carefully"
+    :
+    When it comes to the magical world of toddlers learning language, you'd be surprised at what they can do. 
+    It turns out, 18-month-olds are good at remembering words when they hear them again and again. 
+    Researchers have been looking at how toddlers learn language and found that words with repeated sounds, like "choo-choo" or "ma-ma", are easier for them to remember.
+
+
+
+#953 Lifestyle
+    Tea played a pivotal role in ______ societies from nomadic hunter-gatherer lifestyles to more settled agricultural communities. With a history _______ over 5,000 years, tea's origins can be _______ back to China, where it was first discovered. From this epicenter, it _______ borders on ancient caravans, making its way into India, Japan, and the Middle East.
+
+    transitioning   matching    highlighted     spanning    covered     traced      crossed     arranging
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   transitioning, spanning, traced, crossed 
 
 
 ----- -----
