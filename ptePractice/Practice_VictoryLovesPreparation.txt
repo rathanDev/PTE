@@ -134,6 +134,149 @@ pteMagicMockTest_15 on 10Mar2024
 pteMagicMockTest_16 on 14Mar2024  - did the speaking module 
 pteMagicMockTest_17 on 16Mar2024  - 
 
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+On Tue19Mar2024
+
+----- -----
+# FIB_RW
+
+#1080 Space Cuisine
+    As humanity's presence in space extends from weeks to months, the culinary landscape beyond Earth's atmosphere is undergoing a remarkable transformation. The early days of space travel _________ by simple, utilitarian food options — freeze-dried meals and energy bars designed for efficiency rather than enjoyment. However, the _________ for sustainable long-term space habitation has sparked innovation in space cuisine. Advanced hydroponic systems and bioregenerative life support systems are being developed to enable the cultivation of fresh ________ in microgravity conditions. These efforts aim not only to improve astronauts' physical health but also to provide psychological comforts through the familiar act of cooking and eating fresh food. Adapting recipes and cooking methods to different gravity levels and preserving food quality and safety in ____________ environments are among the challenges of space cuisine.
+
+    has marked, were marked, that marked, which were marked 
+    investigation, quest, detour, pursuit 
+    produce, dishes, products, equipment 
+    habitual, extreme, unworldly, sophisticated 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   were marked, quest, produce, extreme 
+    :
+    why produce not products?
+        In the context of the sentence, "produce" is the correct choice 
+            because it refers to fresh fruits and vegetables that are being cultivated in space. 
+        "Products" typically implies manufactured items or goods, which wouldn't fit the meaning intended here. 
+        The sentence is discussing the cultivation of fresh food in microgravity conditions, so "produce" is the appropriate term to use.
+
+
+
+#1081 Sleep Habbits
+    Sleep is essential for health and well-being, but many Americans do not get _________ of it. This problem may start as early as childhood, especially for racial and ethnic minorities, according to a study led by Julio Fernandez-Mendoza, a professor of psychiatry and behavioral health at Penn State Health. The study followed 700 children, ages 5 to 12, for seven years and found that Black children were seven times less likely than white children to develop good sleep habits, _________ socioeconomic status. The researchers ________ this disparity to racism, stress and discrimination, which may affect children’s ability to fall and stay asleep. They also found that poor sleep in childhood persisted into adolescence and adulthood, increasing the risk of chronic health conditions such as cardiovascular disease, diabetes and obesity. The findings suggest that sleep disparities are not only a consequence but also a __________ of social and health inequities. The researchers called for more awareness and intervention to promote sleep health among minority children and families, as well as policies to address the structural _________ of poor sleep.
+
+    necessary, such, enough, efficient 
+    compared to, no matter, nevertheless, regardless of 
+    preserved, disclosed, separated, attributed 
+    pivot, cause, progression, result 
+    stems, deterrants, determinants, symbols 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   enough, 
+            regardless, 
+            attributed, 
+            cause,          ChatGPT says result 
+            deterrants
+    :
+    deterrants 
+        a thing that discourages or is intended to discourage someone from doing something.
+        "cameras are a major deterrent to crime"
+
+
+
+#1082 Existentialism
+    Existentialism is a philosophical movement that became prominent in the 20th century, particularly in the years _________ World War II. At its core, existentialism emphasizes the individual human being’s freedom and responsibility to give meaning to their own life. Key existentialist philosophers like Jean-Paul Sartre and Kierkegaard argued for the primacy of existence over essence. This means they believed that human beings define themselves through the choices they _______ and the actions they take, rather than having some ________ essence or nature that defines who they are. As Sartre famously stated, “existence precedes essence.” This focus on subjective experience and individual freedom leads to the existentialist view that each person must create meaning for themselves in an objectively meaningless and absurd universe. Existentialists do not believe there is any __________ meaning or purpose given by a divine being or human nature - there is only the meaning we each generate. This places the _________ and responsibility of making choices and directing one’s life solely on the individual.
+
+    next, following, posting, hereafter 
+    give, set, make, take 
+    methodological, predetermined, adequate, transient 
+    bulky, incidental, overarching, conditional 
+    spectacle, echo, burden, career 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   following, make, predetermined, overarching, burden 
+    :
+    overarching
+        comprehensive or all-embracing.
+        "a single overarching principle"
+
+
+
+#1083 Diet Trends
+    Looking into the history of human diet, it's clear that what we eat has changed dramatically from early hunter-gatherer societies to the present day. The introduction of agriculture was a turning point, leading to the development of settlements and the _________ of civilizations. Nowadays, there's a significant __________ in diets like paleo, which suggest eating similarly to our ancestors for better health, highlighting a debate on the impact of processed foods. Nutrition science often presents conflicting advice, with studies sometimes ________ previous dietary guidelines. This makes choosing the "right" diet a complex issue, influenced by individual health needs and the latest research findings, rather than a one-size-fits-all solution. The push towards organic and ________ sourced foods reflects a general concern about the environmental and health impacts of our food choices.
+
+    density, climb, rise, work 
+    surplus, disregard, interest, approval 
+    calling, overturning, determining, expecting 
+    basically, locally, basic, local 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   rise, interest, overturning, locally 
+
+
+
+#1084 Architectural Evolution
+    Cities are living museums, displaying centuries of architectural evolution side by side. The styles of buildings reflect the era and technology of their construction, from medieval stone to modern steel and glass. Recently, there's been a focus on ________ older buildings more energy-efficient, retrofitting them with technologies like solar panels. This trend represents a balance between preserving historical aesthetics and ___________ today’s environmental standards. Architecture, fundamentally, is a record of human society, showing changes in tastes, technologies, and social structures over time. The challenge of integrating modern amenities ___________ compromising the integrity of historical sites has sparked creative solutions. As cities expand, the pressure to ____________ the new with the old while accommodating growth and sustainability concerns shapes the future of urban planning.
+
+    making, building, taking, hiring 
+    searching, starting, investing, meeting 
+    by, due to, without, under 
+    commoditize, orient, network, blend 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   making, meeting, without, blend 
+    :
+    retrofitting
+        -   add (a component or accessory) to something that did not have it when manufactured.
+            "motorists who retrofit catalysts to older cars"
+
+
+
+#1085 Nature Benefits
+    A new study from the University of Vienna shows that regular ________ with nature can have positive effects on mental health, especially for people with lower incomes. The study involved a sample of 2,300 Austrian residents and assessed their well-being and ________ with natural environments. The researchers found that spending time in nature can help reduce stress, improve immune system function, enhance cognition, improve sleep quality, and increase life satisfaction. However, these benefits are not ________ distributed among different income groups. The study revealed that people with lower incomes ___________ to have poorer mental health than their wealthier counterparts, but they also benefit the most from contact with nature. According to the study’s lead author, Leonie Fian, the well-being benefits derived from weekly visits to nature throughout the year are comparable to the benefits associated with an annual income increase of 1,000 euros. However, _________ living near green areas or water bodies is not enough. Active engagement with these places is necessary.
+
+    aids, structures, encounters, courses 
+    elevations, radiations, interactions, appreciations
+    actually, purely, politely, equally 
+    incline, tend, enact, consist 
+    simply, rightly, originally, really 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   encounters, interactions, equally, tend, simply 
+
+
+----- -----
+
+
+----- -----
+
+
+----- -----
+
+
+
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Sun17Mar2024
 
