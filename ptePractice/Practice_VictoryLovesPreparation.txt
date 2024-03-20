@@ -136,6 +136,30 @@ pteMagicMockTest_17 on 16Mar2024  -
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+# FIB_RW 
+
+#736 Amazon Basin
+    Colorful poison frogs in the Amazon owe their great _________ to ancestors that leapt into the region from the Andes Mountains several times during the last 10 million years, a new study from The University of Texas at Austin suggests. This is the first study to show that the Andes have been a ________ _________ of diversity for the Amazon basin, one of the largest ________ of biological diversity on Earth. The finding runs ___________ to the ________ that Amazonian diversity is the _________ of evolution only within the tropical forest itself. " Basically, the Amazon basin is 'melting pot' for South American frogs," says graduate student Juan Santos, lead author of the study. "Poison frogs there have come from multiple places of ________, notably the Andes Mountains, over many millions of years. We have shown that you cannot understand Amazonian biodiversity by looking only in the basin. Adjacent regions have played a major role."
+
+    division, diversity, diversification, diversify 
+    important, major, essential, special 
+    gap, source, stem, dump 
+    pool, reservoirs, tank, territories 
+    along, counter, through, thoroughly 
+    myth, idea, situation, condition 
+    link, result, trigger, usher 
+    living, result, origin, species 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   
+
+
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Tue19Mar2024
 
 ----- -----
@@ -206,6 +230,9 @@ On Tue19Mar2024
     ans 
         -   following, make, predetermined, overarching, burden 
     :
+    incidental 
+        happening as a minor accompaniment to something else.
+        "for the fieldworker who deals with real problems, paperwork is incidental"
     overarching
         comprehensive or all-embracing.
         "a single overarching principle"
@@ -268,6 +295,9 @@ On Tue19Mar2024
 
 
 ----- -----
+# WFD 
+
+the new theory uses the latest research to explain the things better 
 
 
 ----- -----
