@@ -136,6 +136,26 @@ pteMagicMockTest_17 on 16Mar2024  -
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+
+pteMagicMockTest_03 
+    #740 Charles Darwin 
+    #736 Amazon Basin 
+    #643 Opportunity cost 
+    #630 Hairstyles
+    #628 Questions
+
+pteMagicMockTest_04 
+    #666 Zika 
+    #47  Mount everest 
+    #629 Corn people 
+    #667 Emerald 
+    #618 Sales jobs 
+    
+
+
+
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 # FIB_RW 
 
 #736 Amazon Basin
