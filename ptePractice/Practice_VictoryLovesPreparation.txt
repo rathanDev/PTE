@@ -152,6 +152,7 @@ pteMagicMockTest_04
     #667 Emerald 
     #618 Sales jobs 
     
+pteMagicMockTest_18
 
 
 
@@ -184,7 +185,129 @@ the director directors of the gallery galleries was were greatful grateful for t
 many business businesses near the campus campuses offer offers offered the students student the a discount discounts.
 
 -----
+
+#196 Love of Reading
+https://www.apeuni.com/en/practice/fib_wr/196
+
+#196 Love of Reading
+    Many parents want their children to grow up with a love of reading. However, recent research _______ that children nowadays spend far more of their time using their phones or computers than reading books. Of course, technology brings children many advantages, but books are _________ important as computers. For instance, when children read storybooks, they imagine the characters and practise their language skills, too. Many British schools run an event called World Book Day. This event _________ to promote reading to pupils using various fun activities. Some pupils come to school in costumes inspired by their favourite book. Other schools organise World Book Day activities where pupils create music, art or plays about books. But it's also important for children to read at home, too. At the moment, _________ parents spend time reading with their children regularly. Unfortunately, this means that these children are missing an opportunity to develop the reading habit at an early age.
+
+    shown, has shown, show, showing 
+    so, as, very, such 
+    differs, defers, aims, disagrees 
+    very few, a little, a few, less 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   has shown, as, aims, very few 
+    :
+    At the moment, _very few_ parents spend time reading with their children
+
+
+#534 Wetland Plant
+    Experts have waited a considerable amount of time for this much-needed book. Now we have a new and very thorough survey of wetland plant species. The content is extensive and totally up-to-date and as reference ________, it represents extremely good value. In addition to the editors, there are 3S well-chosen contributors who have put in a tremendous amount of work to _________ the reader with maps and indexes, and colorful photographs. The plant descriptions are straightforward, yet scholarly, and flicking through the pages, ________ the writers’ passion for the subject. Each of the eight sections has an overview, _______ current concerns and future conservation plans. Despite a few gaps and the occasional unsatisfactory illustration, this handbook will remind botanists and specialists of the importance of protecting the country's plant life. ______ person interested in the topic, whether a student or a hardened expert, will find it indispensable.
+
+    report, book, piece, material 
+    assist, manage, hand, contribute 
+    it can sense, one sense, he senses, you can sense, 
+    focusing, highlighting, bringing, involving 
+    All, anyone of, every, the other 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   material, assist, you can sense, highlighting, Every 
+    :
+    discern 
+        -   recognize or find out.
+            "I can discern no difference between the two policies"   
+
+
+#117 Interior Design
+    Interior design is a professionally conducted, practice-based process of planning and realization of interior spaces and the elements within. Interior design is _______ with the function and operation of the aesthetics and its ________. The work of an interior designer draws upon many other _______, such as environmental psychology, architecture, product design and, aesthetics, in relation to a wide range of building spaces including hotels, corporate and public spaces, schools, hospitals, private residences, shopping malls, restaurants, theaters and airport terminals.
+
+    related, compared, concentrated, corresponded 
+    capability, environment, sustainability, deniability 
+    disciplines, course, prinicipals, functions 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        apeUni
+        -   related, sustainability, disciplines 
+    :
+    Interior design is _related_ with the function and operation of the aesthetics and its _sustainability_.
+
+
+#21 Life Expectancy
+    People are generally living longer than previous generations across most parts of the world. Rising life expectancy is a result of advances in medicine as well as improving living standards and healthier lifestyles. But while this should be _______ for social reasons, is it beneficial in economic terms? Does the increase in the older population create an economic burden on society or can older people be mobilized to _______ the productivity of communities in which they work and live? New analysis of international data from 35 countries, published by the International Longevity Centre, provides more evidence in favor of a 'longevity dividend'. The authors found that as life expectancy increases, so _______ 'output per hour worked, per worker and per capita'.
+
+    celebrated, celebrates, coordinating, celebrating 
+    enhancing, encounter, enhance, enhanced 
+    does, doing, did, done 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   celebrated, enhance, does 
+
+
+#87 Global Textile Industry
+    The environmental impact of the global textile industry is hard to overstate. One-third of the water used worldwide is spent fashioning fabrics. For every ton of cloth ________, 200 tons of water is polluted with chemicals and heavy metals. An estimated 1 trillion kilowatt-hours of electricity powers the factories that card and comb, spin and weave, and cut and stitch materials into everything from T-shirts to towels, _________ behind mountains of solid waste and a massive carbon footprint. 'Where the industry is today is not really sustainable for the long term,' says Shreyaskar Chaudhary, chief executive of Pratibha Syntex, a textile manufacturer based outside Indore, India. With something of an 'if you build it, they will come' attitude, Mr.Chaudhary has steered Pratibha ________ the leading edge of eco-friendly textile production. Under his direction, Pratibha began making clothes with organic cotton in 1999. Initially, the company couldn't find enough organic farms growing cotton in central India ________ its factories. To meet production demands, Chaudhary's team had to convince conventional cotton farmers to change their growing methods. Pratibha provided seeds, cultivation instruction, and a guarantee of fair-trade prices for _________ crops. Today, Pratibha has a network of 28,000 organic cotton growers across the central states of Madhya Pradesh, Maharashtra, and Orissa.
+
+    produced, has produced, producing, is produced 
+    moving, leaving, processing, looking into 
+    against, over, toward, behind 
+    have supplied, supplying, to supply, is supplied 
+    their, some, mine, them 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   produced, leaving, toward, to supply, their 
+    :
+
+    Both "toward" and "towards" are correct, 
+    but "toward" is more commonly used in American English, 
+    while "towards" is more common in British English. 
+    They are interchangeable in this context, 
+    so you can choose either one based on your preference or the style guide you're following.
+
+
+#661 Language Deficit
+    This is a challenging time for UK students, and we should be making their transition from university to the globalized world easier, not harder. The British Academy has voiced its _______ over the growing language deficit for some years, and the gloomy statistics speak for themselves. We need _______ action if we are remedying this worsening situation. The _________ of the problem lie within schools, but Vice-Chancellors have the power to drive change and help their students recognize the importance of learning languages, and about the countries where they are spoken and the cultures they sustain. We _________ them to act and protect this country's long term economic, social and cultural standing.
+
+    opinion, concern, criticism, expectation 
+    inclusive, decisive, perfunctory, formative 
+    roots, scourges, links, grounds 
+    suppress, appeal, persuade, urge 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   concern, decisive, roots, urge 
+    
+
+
+
+
+
+
 -----
+
 
 
 
