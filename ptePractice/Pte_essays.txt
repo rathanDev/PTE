@@ -49,6 +49,24 @@ In conclusion, even when there are several demerits associated with men or women
 
 ---
 
+To what extent do you think that organic farming can feed the world population?
+
+The importance of organic farming has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of organic farming. In my opinion, organic farming can feed the world population and it has more positive impacts than negatives around the globe.
+
+To begin with, there are several factors in favor of my belief. The most prominent reason is that there are several diseases linked to the chemicals and pesticides used in inorganic farming methods. According to the research conducted by Western Sydney University, ninety-five percent of people prefer fresh produces from organic farming and they strongly believe that these organic fruits and vegetables will help them live longer without diseases. Secondly, we are quite confident that organic farming can feed the whole world because there are significant number of farmers who have already adopted and succeeded in organic farming.
+
+On the other hand, critics may point out that one of the most significant disadvantages is that the organic fruits and vegetables are way more expensive than the regular ones and there is no solid way of finding out if they are geniunely organic. For instance, a survey conducted in the United States reveals that most of the organic products in the market are thirty percent more expensive than the regular items and that is because there is a huge expense in getting the products certified as organic.
+
+In conclusion, even when there are several demerits associated with organic farming, the advantages outweigh the disadvantages and the organic products have become a crucial part of our lives. Therefore, the efficient use of organic farming should be promoted. However, its misuse should be condemned.
+
+> genuinely        typo 
+      ^
+
+> people prefer fresh produces from organic farming
+                             ^
+
+---
+
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Sun17Mar2024
