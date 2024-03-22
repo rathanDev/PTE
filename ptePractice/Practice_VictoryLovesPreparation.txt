@@ -157,38 +157,25 @@ pteMagicMockTest_04
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+On Fri22Mar2024
+pteMagicMockTest_18 on 22Mar2024  - Full
 
-
-You will have 20 minutes to plan, write and revise an essay about the topic below. Your response will be judged on how well you develop a position, organize your ideas, present supporting details, and control the elements of standard written English. You should write 200-300 words.
-
-There are more men or women in certain jobs and there’s nothing we can change about it. Do you agree with that?
-
-
-The topic has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of the topic. In my opinion, the topic has more positive impacts than negatives around the globe.
-
-To begin with, there are several factors in favor of my belief. The most prominent reason is that ex. According to the reseach conducted by Western Sydney University, ex. Secondly, ex.
-
-On the other hand, critics may point out that one of the most significant disadvantages of the topic is that ex. For instance, a survey conducted in the United States reveals that ex.
-
-In conclusion, even when there are several demerits associated with the topic, the advantages outweigh the disadvantages and the topic has become a crucial part of our lives. Therefore, the efficient use of topic should be promoted. However, its misuse should be condemned.
-
-
-
----
-
-
-The importance of equal opportunity in employment has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of maintaining equal men to women ratio in workplaces. In my opinion, having more men or women in certain jobs has more positive impacts than negatives around the globe.
-
-To begin with, there are several factors in favor of my belief. The most prominent reason is that genetically men and women are different and they have different strengths and weaknesses. According to the research conducted by Western Sydney University, in building and moving industries ninety percent of employees are men, whereas in sewing, support and cooking industries ninenty five percent are women. Secondly, our society has been practicing this way of dividing the jobs between men and women for centuries and it is stable to go for another few hundred years.
-
-On the other hand, critics may point out that one of the most significant disadvantages of having more men or women in certain jobs is that men or women who are really curious may miss out the chances of exploring a particular industry because it's dominated by one particular gender. For instance, a survey conducted in the United States reveals that aviation industry mostly prefers male and all higher officials strongly believe in it.
-
-In conclusion, even when there are several demerits associated with men or women holding more jobs in certain fields, the advantages outweigh the disadvantages and the change for this trend has become a crucial part of our lives. Therefore, the efficient use of dividing job opportunities between men and women should be promoted. However, its misuse should be condemned.
+----- -----
 
 
 -----
 
 The main focus was happiness economics with examples. The first crucial aspect was a survey about what people say that make them happy and a lot of skepticism. Furthermore, lecture mentioned that large sample of people were considered across the country. Additionally, the lecture also presented important information about health and marital status. In conclusion, the lecture suggested that consisten patterns were found.
+
+> what makes them happy 
+           ^
+> Furthermore, the lecture mentioned that 
+               ^
+> that a large sample of people was considered 
+       ^                        ^
+> consistent                                        (typo)
+           ^
+
 
 -----
 
