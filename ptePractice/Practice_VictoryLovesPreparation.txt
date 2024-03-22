@@ -152,8 +152,6 @@ pteMagicMockTest_04
     #667 Emerald 
     #618 Sales jobs 
     
-pteMagicMockTest_18
-
 
 
 
@@ -300,7 +298,68 @@ https://www.apeuni.com/en/practice/fib_wr/196
     ans 
         -   concern, decisive, roots, urge 
     
+-----
+# FIB_R 
 
+#351 Geography
+    Many famous geographers and non-geographers have attempted to define the discipline in a few short words. The concept has also changed throughout the ages, making it difficult to create a ________, universal geography definition for such a dynamic and all-encompassing subject. After all, Earth is a big place with many ________ to study. It affects and is affected by the people who live there and use its _______. But basically, geography is the study of the _______ of Earth and the people who live there, and all that encompasses.
+
+    concise facets complex resources surface options methods
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   concise, facets, resources, surface 
+    :
+    facet 
+        one side of something many-sided, especially of a cut gem.
+        "a blue and green jewel that shines from a million facets"
+
+
+#540 Shrimp Farms
+    Over the past two decades around a third of the world’s mangrove swamps have been ________ for human use, with many turned into valuable shrimp farms. In 2007 an economic study of such shrimp farms in Thailand showed that the commercial profits per hectare were $9,632. If that were the only factor, conversion would seem an excellent idea. However, proper _______ shows that for each hectare government subsidies formed $8,412 of this figure and there were costs, too: $1,000 for pollution and $12,392 for losses to ecosystem services. These ________ damage to the supply of foods and medicines that people had taken from the forest, the loss of habitats for fish, and less buffering against storms. And because a given shrimp farm only stays _______ for three or four years, there was the additional cost of restoring them afterwards.
+
+    regenerating    study   estimated   accounting      productivity    productive  converted   comprised
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   converted, accounting, comprised, productive 
+    :
+    However, proper _accounting_ shows that for each hectare government subsidies formed $8,412 of this figure and there were costs, too: 
+        $1,000 for pollution and $12,392 for losses to ecosystem services. 
+    These _comprised_ damage to the supply of foods and medicines that people had taken from the forest, 
+        the loss of habitats for fish, and less buffering against storms.
+
+
+#75 Stress
+    Stress is what you feel when you have to handle more than you are used to. When you are stressed, your body _______ as though you are in danger. It makes _________ that speed up your heart, make you breathe faster, and give you a burst of energy. This is called the fight-or-flight stress _______ . Some stress is normal and even useful. Stress can help if you need to work hard or react quickly. For example, it can help you win a race or _______ an important job on time. But if stress happens too often or lasts too long, it can have bad effects. It can be linked to headaches, an upset stomach, back pain, and trouble sleeping. It can weaken your _______ system, making it harder to fight off _______.
+
+    responds    hormones    response    finish  immune  disease     responding  vitamins    compete
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   responds, hormones, response, finish, immune, disease 
+
+
+#308 Western Firms
+    What such a map would have failed to reveal, however, was the changing nature of the _______ put in place by Western firms as they shifted work around the globe. It is often assumed that when Western firms, or any firm for that matter, reach out across ______ to establish a factory outlet here, an assembly plant there or a subsidiary in some far-off ________, they do so through directly investing and thereby wholly owning such facilities. In the 1970s and 1980s, among the low-cost manufacturing overseas operations, this was indeed often the case, but increasingly Western firms started to conduct their business at-a-distance through a variety of indirect means, of which subcontracting became the principal _______.
+
+    arrangement emergency   location    positions   borders range   services    connections
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   connections, borders, location, arrangement 
 
 
 
