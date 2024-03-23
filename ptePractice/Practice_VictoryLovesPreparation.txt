@@ -153,9 +153,48 @@ pteMagicMockTest_04
     #618 Sales jobs 
     
 
+Pearson scored practice test 
+    https://ptea.learnosity.com/studentFW1/assess/assigned/category/Scored
+
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Sat23Mar2024
+
+----- -----
+
+
+
+#38 Thunderstorm
+    lightning 
+         ^
+
+#34 Remarkable Reversal
+    stimulate   !s 
+
+#70 Inflection Point
+    delivered 
+            ^
+# Music 
+    For years, little _action_ was taken against illegal downloads
+                            ^  !s 
+
+#9 Women in Society
+
+- its diagrammatic form and also its _description_ ,which has to be clear.
+                                                 ^        ^
+
+#1 Barred Owls
+    adaptable       !adoptable 
+    The barred owl grows up to half a metre tall and has emerged as a very _adaptable_ nocturnal predator. 
+
+# Genes 
+    the way it is organized, administered and _assessed_.
+
+
+
+----- -----
+
+
 pteMagicMockTest_19 on 23Mar2024
 
 ----- -----
