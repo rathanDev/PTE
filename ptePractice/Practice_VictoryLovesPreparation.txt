@@ -135,7 +135,7 @@ pteMagicMockTest_16 on 14Mar2024  - did the speaking module
 pteMagicMockTest_17 on 16Mar2024  - did the speaking module 
 pteMagicMockTest_18 on 22Mar2024  - Full
 pteMagicMockTest_19 on 23Mar2024  - Full
-pteMagicMockTest_20 on 23Mar2024  - ....
+pteMagicMockTest_20 on 23Mar2024  - Full
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
@@ -181,6 +181,14 @@ To begin with, there are several factors in favor of my belief. The most promine
 On the other hand, critics may point out that one of the most significant disadvantages is that these mass media reduces the human interaction. For instance, a survey conducted in the United States reveals that seventy-five percent of people spend their 5 hours a day using mass media which is a negative factor.
 
 In conclusion, even when there are several demerits associated with the influence of mass media, the advantages outweigh the disadvantages and social media, TV and newspapers have become a crucial part of our lives. Therefore, efficient use of mass media should be promoted. However, its misuse should be condemned.
+
+>> provind      provide  
+         ^
+
+>> this mass media 
+      ^                  not these 
+
+
 
 ---
 
@@ -8259,7 +8267,8 @@ In conclusion, even when there are a lot of demerits associated with the influen
 
 ----- ----- ----- -----
 
-PTE Magic mock test 20 
+PTE Magic mock test 20
+pteMagicMockTest_20 
 
 FIB R&W
 
@@ -8283,8 +8292,9 @@ FIB R&W
     ChatGPT:
         emphasis        ok
         effective       ok 
-        ___
-        __
+        field 
+        therefore
+        support 
     https://nap.nationalacademies.org/read/13149/chapter/5 :
         emphasis, effective, profession, therefore, support 
     :
@@ -8298,10 +8308,23 @@ FIB R&W
     :
     Emphasis:
         "Human factors, with its emphasis on user- or person-centered design" suggests that human factors places a strong focus on designing systems with consideration for the users or individuals involved.
+        :
+        "Emphasis" implies a strong prioritization or highlighting of a specific aspect, indicating that human factors places considerable importance or weight on user- or person-centered design. It suggests that this aspect is given special attention or prominence within the field.
+
+        On the other hand, "focus" simply suggests directing attention towards something without necessarily implying the same level of significance or prioritization as "emphasis." While both words convey a similar idea of directing attention, "emphasis" carries a stronger connotation of significance and priority, which aligns better with the intended meaning in the passage.
+    :
     Effective:
         "...the care provided is safe, effective, and efficient" indicates that human factors aims to ensure that the healthcare delivered in a home setting is not only safe but also achieves its intended outcomes in an effective and efficient manner.
-    Profession:
-        "According to the International Ergonomics Association, '[Human factors] is the scientific discipline...and the profession that applies theory, principles, data, and other methods to design..." clarifies that human factors is not only a scientific discipline but also a profession dedicated to applying its knowledge to design for optimal human well-being and system performance.
+    field vs profession :
+        Field: 
+            "Field" is commonly used to refer to a specific area of study or expertise. When we talk about human factors as a "field," we're referring to it as a defined discipline with its own theories, methodologies, and practices. It suggests that human factors is a well-established and recognized domain of study within which professionals work to optimize human well-being and system performance.
+        Profession: 
+            While "profession" could be applicable, 
+            it tends to imply the career aspect of human factors 
+            rather than its academic or scientific nature. 
+            "Profession" might suggest the individuals working in the field rather than the field itself as an area of study.
+        Profession:
+            "According to the International Ergonomics Association, '[Human factors] is the scientific discipline...and the profession that applies theory, principles, data, and other methods to design..." clarifies that human factors is not only a scientific discipline but also a profession dedicated to applying its knowledge to design for optimal human well-being and system performance.
     Therefore:
         "Human factors is therefore concerned with applying what is known about human behavior..." connects the previous statement to the next, indicating that the profession of human factors is particularly concerned with applying knowledge about human behavior to design processes.
     Support:
@@ -8331,6 +8354,10 @@ FIB R&W
     therefore 
         It's a profession, therefore, it does these 
         The word "therefore" is suitable here as it indicates a logical consequence or conclusion, connecting the understanding of human factors to its application in the design of various elements.
+    support vs assist :
+        assist: Implies lending a helping hand or providing guidance to accomplish a task.
+        "support" 
+            is chosen for its versatility and neutrality, making it suitable for describing the multifaceted role of human factors in designing training programs and instructional materials.
 
 -----
 
