@@ -178,6 +178,158 @@ The main focus was artificial pictures of nature created by technology or comput
 -----
 # FIB_RW 
 
+#91 Trinity Sport and Fitness
+    Whether you want to exercise and stay _______, train professionally with like-minded people, or indulge your competitive streak, Trinity Sport and Fitness ____________. We've got a dedicated support development team on campus to support every student ________ part in sports. You might want to participate in sports competitions volunteer with a local sports class or simply play for _______ with our social sport program. Trinity fitness members of our public-facing sports facility will also __________ you to discounts when you are booking a sports facility and fitness class. You will also get an opportunity to ___________ from tailored personal training, free activities events, and lots more.
+
+    healthy, wealthy, humble, hungry 
+    has it covered, makes covering, have covered, does it covering 
+    taking, taken, have taken, were taking 
+    idle, fun, kidding, exchange 
+    enact, encourage, entitle, allow 
+    obtain, upgrade, benefit, proceed 
+    :
+    :
+    :
+    :
+    :
+    ans
+        -   healthy, has it covered, taking, fun, entitle, benefit 
+
+
+
+#63 Cause of Unemployment
+    One cause of unemployment may be downswings in the trade cycle, i.e. periods of recession. Another explanation of wide-scale unemployment refers to ________ employment. Structural unemployment arises from longer-term changes in the economy, affecting _________ industries, regions and occupations. Structural unemployment often explains regional unemployment. Some regions of the UK such as Central Scotland, and the North-West have higher rates of unemployment because the _________ heavy industries which ____________ there have gone into decline as they are _______ by cheaper imports from abroad. The new high-tech industries based on new technologies tend to be based in the South-East and along particular growth corridors.
+
+    structural, regional, perpetual, temporary 
+    concrete, special, specific, infinite 
+    provisional, traditional, rational, exceptional 
+    lied, settled, located, built 
+    substituted, replaced, used, affected 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   structural, specific, traditional, located, replaced 
+                                                        ^ chatGPT is not sure 
+
+
+#736 Amazon Basin
+
+
+#732 EE&AVG
+    There has been increased research interest in the use of active video games (in which players physically interact with images onscreen) as a means to ______ physical activity in children. The aim of this review was to assess active video games as a means of increasing energy expenditure and physical activity behavior in children. Studies were obtained from computerized searches of multiple electronic bibliographic databases. The last search was conducted in December 2008. Eleven studies focused on the quantification of the energy cost associated with playing active video games, and eight studies focused on the utility of active video games as an _______ to increase physical activity in children. Compared with traditional non-active video games, active video games ________ greater energy expenditure, which was similar in intensity to mild to moderate intensity physical activity. The intervention studies indicate that active video games may have the potential to increase free-living physical activity and improve body _______ in children; however, methodological limitations prevent _______ conclusions. Future research should focus on larger, methodologically sound intervention trials to provide definitive answers as to whether this technology is effective in ________ long-term physical activity in children.
+
+    examine, obstruct, inspect, promote 
+    inversion, infusion, aversion, intervention 
+    elicited, consumed, reduced, spread 
+    composition, element, tissue, nutrition 
+    optimal, definitive, positive, optimistic 
+    obstructing, promoting, reviewing, assessing 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   promote, intervention, elicited, composition, definitive, promoting 
+    :
+    intervention
+        - the action or process of intervening.
+            "a high degree of state intervention in the economy"
+        - interference by a state in another's affairs.
+        :
+        - action taken to improve a medical disorder.
+            "two patients were referred for surgical intervention"
+    :
+    elicit 
+        - evoke / obtain
+        -   evoke or draw out 
+            "I tried to elicit a smile from Joanna"
+
+
+#613 EE and AVG
+    Currently, there is concern about the increasing amount of time children spend _______ in sedentary activities, the number of children who fail to achieve ________ daily physical activity guidelines (i.e. 60 min of moderate-to-vigorous intensity activities every day), and the apparent increase in obesity prevalence as a result of such sedentary ________. Screen-based activities, including television viewing and playing computer games, are __________ of the most frequently observed sedentary activities that children partake with children spending 2.5–4 h per day participating in such activities. The introduction of “active video games” (AVGs) into the gaming market presents an opportunity to convert traditional, sedentary screen-time into active screen-time and thus increases total daily energy expenditure (EE). Modern AVGs utilize cameras and motion sensors to allow the gamer to physically perform a variety of actions, dependent on the console, such as swinging a tennis racquet or running. The most demanding AVGs provided similar responses to walking and, based on international standards, should be classified as low-intensity activities. Whilst AVGs may provide children with a better alternative to sedentary gaming, they are not a sufficient _________ for normal physical activity, e.g. sports and outdoor play.
+
+    wasted, prevailing, engaged, being 
+    maximum, mini, minimum, enough
+    connectivity, position, behaviours, stuff 
+    relative, independent, dependent, part 
+    consumption, employment, replacement, analogy 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   engaged, minimum, behaviours, part, replacement 
+
+
+#728 Computer
+    The purpose of this paper is to consider the claim, often made, that computer simulation exercises provide an excellent source of speaking practice. In so doing I shall first consider the properties of computer simulations from a theoretical ________, then describe the experience of ________ a particular simulation with a general EFL class. On the basis of this experience, and of some very straightforward pedagogical considerations, I shall argue that the claim is justified, ________ to a very important caveat: computer simulations can form the basis of excellent speaking exercises, provided you do not expect the computer to do all the work. Put in another way, many computer simulations only ________ their full potential as language exercises if they are _________ into a larger, planned, teacher-managed activity.
+
+    shape or form, state of mind, point of view, status quo 
+    used, being used, using, having been used 
+    subject, reject, expect, inject 
+    obtain, attain, retain, remain 
+    separated, included, participated, integrated 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   point of view, using, subject, attain, integrated 
+        
+
+Little more than hundred years ago 
+commercial city
+pacific
+404 - not found 
+
+#136 Buying a House
+    https://www.apeuni.com/en/practice/fib_wr/136
+
+
+-----
+# FIB_R
+
+
+#281 Celtic Bards
+    Ancient Celtic bards were famous for the sheer ________ of information they could memorize. This included thousands of songs, stories, chants and ________ that could take hours to recite in full. Today we are pretty spoiled. Practically the whole of human ________ is conveniently available at our fingertips.
+
+    quantity    knowledge   poems   letters     quality     pathways
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   quantity, poems, knowledge
+
+
+
+#139 Crime Prevention
+    Crime prevention has a long history in Australia, and in other parts of the world. In all societies, people have tried to _______ themselves and those close to them from assaults and other abuses. Every time someone locks the door to their house or their car, they practise a ______ of prevention. Most parents want their children to learn to be law abiding and not spend extended periods of their lives in prison. In this country, at least, most succeed. Only a small minority of young people become _______ offenders. In a functioning society, crime prevention is part of everyday life. While prevention can be all-______ at the grassroots, it is oddly neglected in mass media and political discourses .When politicians, talkback radio hosts and newspaper editorialists pontificate about crime and _______ remedies, it is comparatively rare for them to mention prevention. Overwhelmingly, emphasis is on policing, sentencing and other 'law and order' responses.
+
+    crime   recidivist  possible    form    protect     pervasive   practice    maintain    unlimited
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   protect, form, recidivist, pervasive, possible 
+    :
+    pervasive 
+        -   (especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.
+                "ageism is pervasive and entrenched in our society"
+
+
+Australia 
+
+
 
 
 -----
