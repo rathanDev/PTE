@@ -160,12 +160,34 @@ pteMagicMockTest_19 on 23Mar2024
 
 ----- -----
 
+# SWT 
+
+The world was made up of a single continent through most of geologic time, and these plates move relative to one another above a hotter, deeper, more mobile zone at average rates as great as a few inches per year, but the Hawaiian Islands provide perhaps the best example of an intra-plate volcanic chain, developed by the northwest-moving Pacific plate.
+
+> ok
+
+-----
+
+# SST 
+
+The main focus was artificial pictures of nature created by technology or computer graphics. The first crucial aspect was about scenes of nature. Furthermore, another significant point mentioned in the lecture was that when a patient sees a picture of nature it has similar benefits. Additionally, the lecture presented about real view against virtual view. In conclusion, the lecture suggested that scenes of nature helps people recover faster.
+
+> scenes of nature help  people
+                       ^
+
+-----
+# FIB_RW 
+
+
 
 -----
 
 
+-----
+
 
 -----
+
 
 
 
