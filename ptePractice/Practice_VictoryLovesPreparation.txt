@@ -125,6 +125,30 @@ shame
 humiliate 
     embarassment or degradation 
 
+commensurate 
+        -   corresponding in size or degree; in proportion.
+            "salary will be commensurate with age and experience"
+
+enigma 
+    -   puzzle / mystery 
+exuberant 
+    -   energetic
+Opus:
+    Noun: A work of art, music, or literature, especially one that is considered to be the most important or significant.
+Propensity:
+    tendency 
+    Noun:   An inclination or natural tendency to behave in a particular way. 
+            It often refers to a strong natural tendency to do something.
+            "the propensity for violence"
+Enigma:
+    confusing thing 
+    Noun:   A person, thing, or situation that is mysterious, puzzling, or difficult to understand. 
+            It can also refer to a statement, event, or circumstance that is ambiguous and hard to interpret.
+Discordant:
+    disagreeing
+    Adjective:  Lacking harmony or agreement; conflicting. 
+                In music, it refers to a combination of tones that sounds harsh or unpleasant when played together.
+
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 
 Attempted pteMagicMockTest 
@@ -9359,12 +9383,6 @@ Pearson Scored Practice Test B
     :
     :
     :
-    mine:
-        nevertheless    ...
-        concluded 
-        instead 
-        likely 
-    :
     apeUni:
         whereas,    concluded,      instead,    likely 
     :
@@ -9435,12 +9453,6 @@ Pearson Scored Practice Test B
     :
     :
     :
-    mine:
-        since 
-        staring 
-        that    ...
-        both 
-    :
     ChatGPT:
         since
         staring 
@@ -9481,12 +9493,6 @@ Pearson Scored Practice Test B
     :
     :
     :
-    mine:
-        according to 
-        thus far        ...
-        addressing 
-        corporation 
-        to help 
     ChatGPT:
         according to 
         hence           -       subject remained poorly understood, _hence_ limited data availability.
@@ -9504,7 +9510,7 @@ Pearson Scored Practice Test B
     The research challenges the ongoing trend across higher education institutes (HEIs) of _____ on experiential learning, and suggests that universities need to reconsider their approach if they ______ increase entrepreneurship among their students.
     Ms Inna Kozlinska, research associate at Aston Business School and author of the study, said: 'Entrepreneurship education _____ as a major force capable of generating long-term socio-economic changes through developing entrepreneurial, creative, flexible and wise individuals. There is an ongoing shift towards experiential learning in business school, ______ there is little empirical evidence to suggest this approach has better impact than traditional learning'.
 
-    basing, focussing, teaching, aiming 
+    basing, focusing, teaching, aiming 
     are to, aim at, hope for, go 
     is seeing, sees, is seen, has seen 
     since, yet, also, even 
@@ -9512,12 +9518,6 @@ Pearson Scored Practice Test B
     :
     :
     :
-    :
-    mine: 
-        teaching    
-        aim at      - careless mistake 
-        is seen 
-        yet 
     :
     apeuni:
         focusing, are to, is seen, yet 
@@ -9551,7 +9551,7 @@ Pearson Scored Practice Test B
         competent 
         strive 
         conveying 
-        pay          - careless, pay is already used, so it should be something else 
+        pay          - careless mistake, pay is already used, so it should be something else 
     Coursehero:
     https://www.coursehero.com/file/p7bkp07/Reading-Blanks-Writing-style-Learning-to-write-well-in-college-means-learning-or/
         slave 
@@ -9651,8 +9651,6 @@ Pearson Scored Practice Test B
     :
     :
     :
-    mine:
-        examine,    emerged,    settlements,    retains,    waveringly 
     ChatGPT:
         examine,    emerged,    settlements,    retains,    increasingly
     :
@@ -9684,6 +9682,9 @@ Pearson Scored Practice Test B
     flagrant 
                 wrong / immoral 
                 conspicuously or obviously offensive 
+    commensurate 
+            -   corresponding in size or degree; in proportion.
+                "salary will be commensurate with age and experience"
 
 ----- ----- 
 
@@ -9698,16 +9699,16 @@ Pearson Scored Practice Test B
     :
     :
     :
-    mine:
-        discordant, enigma, reason 
     apeUni:
         enigma,             opus,               reason 
         puzzle/mystery      music concert
     ChatGPT:
         enigma,             opus,               reason 
     :
+    enigma 
+        -   puzzle / mystery 
     exuberant 
-        - energetic
+        -   energetic
     Opus:
         Noun: A work of art, music, or literature, especially one that is considered to be the most important or significant.
     Propensity:
