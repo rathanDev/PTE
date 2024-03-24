@@ -311,7 +311,11 @@ PearsonScoredPracticeTestE
     :
     :
     ans 
-        -   developing, can, came, only 
+        -   developing, can, came, only
+    : 
+    prospect 
+        - the possibility or likelihood of some future event occurring.
+            "there was no prospect of a reconciliation"
 
 
 5.  #663 Lumière Brothers
@@ -332,70 +336,70 @@ PearsonScoredPracticeTestE
     ans 
         -   attracted 
             industry 
-            ___ had to listen 
+            ___ had to listen           bcz  only watch (!watched) them
             __  In fact 
             __  dialogue 
 
 
 ----
 
-The Turks and Caicos Islands are a multi-island archipelago at the southern tip of the Bahamas chain, approximately 550 miles south-east of Florida. The islands are an overseas territory of the United Kingdom although they exercise a high degree of local political autonomy. The economy of the islands rests mainly on tourism, with some contribution from offshore banking and fishing.
-Primary schooling is divided into eight grades, with most pupils entering at the age of four years and leaving at twelve. After two kindergarten years, Grades 1-6 are covered by a graded curriculum in maths, language and science that increases in difficulty as pupils get older. There is little repetition and pupils are expected to progress through primary school in their age cohorts. At the end of primary schooling, pupils sit an examination that serves to stream them in the secondary school setting. Primary and secondary school enrolment is virtually universal. There are a total of ten government primary schools on the islands. Of these, seven are large enough to organize pupils into single-grade classrooms. Pupils in these schools are generally grouped by age into mixed ability classes. The remaining three schools, because of their small pupil numbers, operate with multigrade groupings. They serve communities with small populations whose children cannot travel to a neighbouring larger primary school. Pupils in these classes span up to three grade and age groups.
-As far as classroom organization is concerned, the multigrade and monograde classrooms are similar in terms of the number of pupils and the general seating arrangements, with pupils in rows facing the blackboard. There is no evidence that the multigrade teachers operate in a particularly resource-poor environment in the Turks and Caicos Islands. This is in contrast to studies conducted in other developing country contexts.
-Question
-Read the text and answer the question by selecting all the correct responses. You will need to select more than one response.
+    The Turks and Caicos Islands are a multi-island archipelago at the southern tip of the Bahamas chain, approximately 550 miles south-east of Florida. The islands are an overseas territory of the United Kingdom although they exercise a high degree of local political autonomy. The economy of the islands rests mainly on tourism, with some contribution from offshore banking and fishing.
+    Primary schooling is divided into eight grades, with most pupils entering at the age of four years and leaving at twelve. After two kindergarten years, Grades 1-6 are covered by a graded curriculum in maths, language and science that increases in difficulty as pupils get older. There is little repetition and pupils are expected to progress through primary school in their age cohorts. At the end of primary schooling, pupils sit an examination that serves to stream them in the secondary school setting. Primary and secondary school enrolment is virtually universal. There are a total of ten government primary schools on the islands. Of these, seven are large enough to organize pupils into single-grade classrooms. Pupils in these schools are generally grouped by age into mixed ability classes. The remaining three schools, because of their small pupil numbers, operate with multigrade groupings. They serve communities with small populations whose children cannot travel to a neighbouring larger primary school. Pupils in these classes span up to three grade and age groups.
+    As far as classroom organization is concerned, the multigrade and monograde classrooms are similar in terms of the number of pupils and the general seating arrangements, with pupils in rows facing the blackboard. There is no evidence that the multigrade teachers operate in a particularly resource-poor environment in the Turks and Caicos Islands. This is in contrast to studies conducted in other developing country contexts.
+    Question
+    Read the text and answer the question by selecting all the correct responses. You will need to select more than one response.
 
-What do we learn in the last paragraph about multigrade classes in the Turks and Caicos Islands?
+    What do we learn in the last paragraph about multigrade classes in the Turks and Caicos Islands?
 
-Responses
+    Responses
 
-Teachers arrange the classroom furniture slightly differently in them.
-Teachers arrange the classroom furniture slightly differently in them.
+    Teachers arrange the classroom furniture slightly differently in them.
+    Teachers arrange the classroom furniture slightly differently in them.
 
-They tend to be smaller than monograde classes in the Islands.
-They tend to be smaller than monograde classes in the Islands.
+    They tend to be smaller than monograde classes in the Islands.
+    They tend to be smaller than monograde classes in the Islands.
 
-The classroom layout is much the same as in monograde classes.
-The classroom layout is much the same as in monograde classes.
+    The classroom layout is much the same as in monograde classes.
+    The classroom layout is much the same as in monograde classes.
 
-They tend to be larger than monograde classes in the Islands.
-They tend to be larger than monograde classes in the Islands.
+    They tend to be larger than monograde classes in the Islands.
+    They tend to be larger than monograde classes in the Islands.
 
-They are less well-resourced than monograde classes In the Turks and Caicos.
-They are less well-resourced than monograde classes In the Turks and Caicos.
+    They are less well-resourced than monograde classes In the Turks and Caicos.
+    They are less well-resourced than monograde classes In the Turks and Caicos.
 
-They are relatively better resourced than multigrade classes in other developing countries.
-They are relatively better resourced than multigrade classes in other developing countries.
+    They are relatively better resourced than multigrade classes in other developing countries.
+    They are relatively better resourced than multigrade classes in other developing countries.
 
 
 ----
 
 
-Finding yourself adrift in a different culture might seem exciting when you're on holiday, but it's an entirely different proposition when you're living and working abroad. Codes of business practice may be radically different and the expatriate lifestyle can be lonely, yet many multinational companies have made little effort to prepare their employees.
-The advertising giant J Walter Thompson is a case in point. 'We call in global relocation specialists to handle the practicalities of moving home and children's education,' says a company spokesman. 'But most other things we leave to the individual. The people we send abroad are experienced international businessmen and women and we expect them to understand different cultural milieus. There will always be the odd problem but we would hope that these could be dealt with by our local staff.'
-But even with strong and knowledgeable support in the new country, Chris Crosby, managing director of TMA, a company that specialises in corporate cross-cultural changes, believes more is required. 'Most people can identify explicit differences which separate their culture from another and have little difficulty in adapting,' he says. 'More implicit differences are far harder to deal with. In the UK a business meeting is perceived as a place where a plan of action will be formulated and implemented. In other cultures, it is often just a forum for discussion. If you go abroad with the UK model as a preconception you might think that a meeting had been a disaster when it hadn't.
-Rather than getting people to adopt a different culture than their own, you have to help them adapt their own style to a new culture. Critical to this is understanding one's own culture. Without examining our own underlying perceptions it is unlikely we will get to grips with another,' Mr. Crosby says. 'But people are unpredictable and not all cross-cultural situations are cut and dried; many are ambiguous, so a key element of successful working practice is to concentrate on building relationships.'
-Question
-Read the text and answer the question by selecting all the correct responses. You will need to select more than one response.
+    Finding yourself adrift in a different culture might seem exciting when you're on holiday, but it's an entirely different proposition when you're living and working abroad. Codes of business practice may be radically different and the expatriate lifestyle can be lonely, yet many multinational companies have made little effort to prepare their employees.
+    The advertising giant J Walter Thompson is a case in point. 'We call in global relocation specialists to handle the practicalities of moving home and children's education,' says a company spokesman. 'But most other things we leave to the individual. The people we send abroad are experienced international businessmen and women and we expect them to understand different cultural milieus. There will always be the odd problem but we would hope that these could be dealt with by our local staff.'
+    But even with strong and knowledgeable support in the new country, Chris Crosby, managing director of TMA, a company that specialises in corporate cross-cultural changes, believes more is required. 'Most people can identify explicit differences which separate their culture from another and have little difficulty in adapting,' he says. 'More implicit differences are far harder to deal with. In the UK a business meeting is perceived as a place where a plan of action will be formulated and implemented. In other cultures, it is often just a forum for discussion. If you go abroad with the UK model as a preconception you might think that a meeting had been a disaster when it hadn't.
+    Rather than getting people to adopt a different culture than their own, you have to help them adapt their own style to a new culture. Critical to this is understanding one's own culture. Without examining our own underlying perceptions it is unlikely we will get to grips with another,' Mr. Crosby says. 'But people are unpredictable and not all cross-cultural situations are cut and dried; many are ambiguous, so a key element of successful working practice is to concentrate on building relationships.'
+    Question
+    Read the text and answer the question by selecting all the correct responses. You will need to select more than one response.
 
-Which of the following statements would Mr Crosby be most likely to agree with?
+    Which of the following statements would Mr Crosby be most likely to agree with?
 
-Responses
+    Responses
 
-Employees don't understand the difference between adopting and adapting to a different culture.
-Employees don't understand the difference between adopting and adapting to a different culture.
+    Employees don't understand the difference between adopting and adapting to a different culture.
+    Employees don't understand the difference between adopting and adapting to a different culture.
 
-Most people have differing ideas about their own culture.
-Most people have differing ideas about their own culture.
+    Most people have differing ideas about their own culture.
+    Most people have differing ideas about their own culture.
 
-Employees often don't understand their own culture clearly enough.
-Employees often don't understand their own culture clearly enough.
+    Employees often don't understand their own culture clearly enough.
+    Employees often don't understand their own culture clearly enough.
 
-People can cope better with another culture if they have a deep knowledge of their own culture.
-People can cope better with another culture if they have a deep knowledge of their own culture.
+    People can cope better with another culture if they have a deep knowledge of their own culture.
+    People can cope better with another culture if they have a deep knowledge of their own culture.
 
-Cross-cultural situations are often difficult to analyse.
-Cross-cultural situations are often difficult to analyse.
+    Cross-cultural situations are often difficult to analyse.
+    Cross-cultural situations are often difficult to analyse.
 
 
 ---
@@ -432,7 +436,8 @@ Cross-cultural situations are often difficult to analyse.
     :
     plausible 
         -    seeming reasonable or probable.
-
+    abound
+        - exist in large number
 
 
 3.  #481 Contagious Emotions
@@ -448,7 +453,16 @@ Cross-cultural situations are often difficult to analyse.
     :
     ans 
         -   sensitive, relationships, insight
-
+    :
+    attune 
+        -   make receptive or aware.
+            "a society more attuned to consumerism than ideology"
+            adjust / adapt 
+    :
+    Codependent relationships" 
+        refer to relationships where one person's thoughts, feelings, and actions are heavily influenced by another person, 
+        often to the detriment of their own well-being. 
+        In codependent relationships, individuals may prioritize the needs and desires of their partner above their own, leading to a lack of boundaries
 
 
 4.  #207 Shipwrecks
@@ -471,13 +485,12 @@ Cross-cultural situations are often difficult to analyse.
     scurry 
         -   (of a person or small animal) move hurriedly with short quick steps.
             "pedestrians scurried for cover"
+    inadvertently
+        -   without intention / accidentally 
 
 --
-
-The main focus of the lecture was the architecture which causes both pleasure and trouble. The first aspect was bad buildings, having serious impacts for hundreds of years. Furthermore, lecture mentioned about talking to an architect about beauty and ugliness. Additionally, the lecture presented information about architecture of the supermarket. In conclusion, the lecture suggested the things that we can say why a building works and why it doesn't.
-
-
-The main focus of the lecture was the architecture which causes both pleasure and trouble. The first aspect was bad buildings, having serious impacts for hundreds of years. Furthermore, the lecture mentioned about talking to an architect about beauty and ugliness. Additionally, the lecture presented architecture of the supermarket. In conclusion, the lecture suggested the things that we can say why a building works and why it doesn't.
+# SWT 
+    The main focus of the lecture was the architecture which causes both pleasure and trouble. The first aspect was bad buildings, having serious impacts for hundreds of years. Furthermore, the lecture mentioned about talking to an architect about beauty and ugliness. Additionally, the lecture presented architecture of the supermarket. In conclusion, the lecture suggested the things that we can say why a building works and why it doesn't.
 ---
 
 You will hear a recording. Type the missing words in each blank.

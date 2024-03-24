@@ -47,7 +47,7 @@ pteMagicMockTest_21 on 24Mar2024
                                 ^                                                   have 
 
     > they think that the external factors
-                    ^                                                               no "the"
+                      ^                                                             no "the"
 
 ----- -----
 
