@@ -161,6 +161,7 @@ pteMagicMockTest_18 on 22Mar2024  - Full
 pteMagicMockTest_19 on 23Mar2024  - Full
 pteMagicMockTest_20 on 23Mar2024  - Full
 pteMagicMockTest_21 on 24Mar2024  - Full
+PearsonScoredPracticeTestE on 24Mar2024  - Full
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
@@ -182,6 +183,340 @@ pteMagicMockTest_04
 
 Pearson scored practice test 
     https://ptea.learnosity.com/studentFW1/assess/assigned/category/Scored
+
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+PearsonScoredPracticeTestE
+
+----- -----
+
+# SWT 
+
+    Sir Tim Berners-Lee may be a mild-mannered academic who lives modestly in Boston, but as the inventor of the World Wide Web he is also a revolutionary, and the way we shop, listen to music and communicate has been transformed, but there are implications for politics.
+
+    > , and 
+
+---
+
+# WE 
+
+    You will have 20 minutes to plan, write and revise an essay about the topic below. Your response will be judged on how well you develop a position, organize your ideas, present supporting details, and control the elements of standard written English. You should write 200-300 words.
+
+    It is often said that people's lives are defined by the place where they grew up. Choose a successful person and discuss how that person's accomplishments were or were not influenced by the place where they lived when they were young.
+
+    The importance of the place a person grows up has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of the place where they lived when they were young. In my opinion, people's lives are defined by the place where they grew up, and place influencing a person's accomplishments has more positive impacts than negatives around the globe.
+
+    To begin with there are several factors in favor of my belief. The most prominent reason is not only nature but also nurturing plays an equally important role in personality development and the place with right people has a great impact for a person to become successful. According to the research conducted by Western Sydney University, ninety percent of successful people attribute their accomplishments to their environment and the supporting social structure which is crucial to give chances and make them victorious. Mike Tyson is the great example to proove that how important the place is for a person to become world famous. Mike Tyson was born in a poor family but he found the right trainer.
+
+    On the other hand, critics may point out that one of the most significant disadvantages is that people may lose self-confidence if they believe that external factors such as place where they grew up have an influence in their success. For instance a survey conducted in the United States reveals that the majority of people who believe in external factors have low self-confidence.
+
+    In conclusion, even when there are several demerits associated with place influencing accomplishments, the advantages outweigh the disadvantages.Therefore, the efficient use of place and the people should be promoted to become successful. However, its misuse should be condemned.
+
+    > The importance of the place where a person grows up
+                                  ^
+    > To begin with,
+                   ^
+    > prove 
+        ^
+    > Mike Tyson was born into a poor family
+                            ^
+    > For instance,
+                  ^
+    > disadvantages. Therefore,
+                    ^
+---
+
+--
+
+# FIB_RW
+
+1.
+    Urban-planning approaches to _________ noise on a city-by-city basis can be as simple as taking a single lane away from cars and giving it to bicycles, people, or green space. Improving, expanding, and properly funding public transit removes cars from the road, both reducing the sound they ________ and replacing it with quieter options like trams and high-speed light-rail. In architecture, acoustics should play a greater _________ in all structures, from mundane apartment buildings to the grandest art museums. Noise control should be a consideration from the very first planning stage, _________ than tacked on as an afterthought.
+
+    vanishing, disposing, eliminating, disappearing 
+    produce, produced, will produce, have produced 
+    act, role, function, position 
+    better, more, other, rather 
+    :
+    :
+    :
+    :
+    :
+    my ans 
+        -   eliminating, produce, role, rather     
+    ChatGPT
+        -   same 
+
+
+
+2.  #79 Wind
+    https://www.apeuni.com/en/practice/fib_wr/79
+
+    The world's atmosphere is forever on the move. Wind is air in motion. Sometimes air moves slowly, giving a gentle breeze. At other times it moves rapidly, creating gales and hurricanes.
+    ________ or fierce, wind always starts in the same way. As the sun moves through the sky, it heats up some parts of the sea and land more than others. The air above these _________ spots is warmed, becomes lighter than the surrounding air and begins to rise. Elsewhere cool air sinks, because it is ________. Winds blow because air squeezed out by sinking, colder air is sucked in under rising, warm air. Winds will blow whenever there is a _________ in air temperature and pressure, always blowing from high to low pressure.
+    Some winds blow in one place and have a local name - France's Mistral or North America's Chinook, for example. Others are part of a huge circulation pattern that sends winds over the __________ globe.
+
+    strong, nice, windy, gentle 
+    hot, cold, land, sea 
+    lighter, warmer, heavier, cooler 
+    conflict, difficulty, difference, struggle 
+    all, main, entire, large 
+    :
+    :
+    :
+    :
+    :
+    my ans 
+        -   gentle, hot, heavier, difference, entire 
+    ApeUni 
+        -   Gentle, hot, heavier, difference, entire
+
+
+
+3.  #696 Bizarre Universe
+    https://www.apeuni.com/en/practice/fib_wr/696
+
+    It seems we live in a bizarre Universe. One of the greatest mysteries in the whole of science is the prospect that 75% of the Universe is made up from a mysterious _________ known as 'Dark Energy', which causes an acceleration of the cosmic expansion. Since a further 21% of the Universe is made up from invisible 'Cold Dark Matter' that can only be _________ through its gravitational effects, the ordinary atomic matter making up the rest is apparently only 4% of the total cosmic budget.
+
+    These _________ require a shift in our perception as great as that made after Copernicus's _______ that the Earth moves around the Sun. This lecture will start by reviewing the chequered history of Dark Energy, not only since Einstein's proposal for a similar entity in 1917, but by tracing the concept back to Newton's ideas. This lecture will ________ the current evidence for Dark Energy and future surveys in which UCL is heavily involved: the "Dark Energy Survey", the Hubble Space Telescope and the proposed Euclid space mission.
+
+    stuff, matter, fabric, substance 
+    monitored, detected, spotted, observed 
+    innovations, sightings, discoveries, implications 
+    revelation, admission, disclosure, surprise 
+    disperse, summarise, recommend, situate 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   substance, detected, discoveries, revelation, summarise 
+
+
+
+4.  #284 Learning from History
+    https://www.apeuni.com/en/practice/fib_wr/284
+
+    The prospect of learning something from history is what makes sociologists tick. It is through _______ a systematic understanding of the forces which shape our lives that we _______ exercise control over them. The founding thinkers of sociology, who _______ to prominence during the development of what we are pleased to call modernity, thought so. It is the intimate relationship between the development of sociology and the development of modernity that the course begins with.
+    This relationship is an intimate one, because it is _______ with the social change instituted in the development of the modern world that a discipline such as sociology - and social science in general - could either exist or have anything to study.
+
+    developing, develop, developed, development 
+    should, will, can, would 
+    went, were, reached, came 
+    also, just, simply, only 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   developing, can, came, only 
+
+
+5.  #663 Lumière Brothers
+    https://www.apeuni.com/en/practice/fib_wr/663       diff options 
+
+    Our sense of cinema as a site of commercial entertainment can be traced back to the Lumière brothers. In December 1895 they ________ a fee-paying public in Paris to sit and watch flickering images on an illuminated screen. The commercial Pandora's Box they opened was to blossom in a few years into a world cinema _______ and, at its peak the fantastical Hollywood. Yet in the 30 years in which this miraculous construction was accomplished, audiences rarely ________ to films, only watch them. Hence, the early decades of cinema were characterised by the title 'silent'. ________, there was a lot of noise, machinery, audiences, musicians and commentators. Even so, the absence of the human voice and _________ make the films seem rather strange when viewed by a modern audience.
+
+    attracted, connected, discovered, committed 
+    club, industry, activity, pastime 
+    had listened, had a listen, listened, had to listen 
+    In fact, on the contrary, Furthermore, besides 
+    conversation, interaction, dialogue, speaking 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   attracted 
+            industry 
+            ___ had to listen 
+            __  In fact 
+            __  dialogue 
+
+
+----
+
+The Turks and Caicos Islands are a multi-island archipelago at the southern tip of the Bahamas chain, approximately 550 miles south-east of Florida. The islands are an overseas territory of the United Kingdom although they exercise a high degree of local political autonomy. The economy of the islands rests mainly on tourism, with some contribution from offshore banking and fishing.
+Primary schooling is divided into eight grades, with most pupils entering at the age of four years and leaving at twelve. After two kindergarten years, Grades 1-6 are covered by a graded curriculum in maths, language and science that increases in difficulty as pupils get older. There is little repetition and pupils are expected to progress through primary school in their age cohorts. At the end of primary schooling, pupils sit an examination that serves to stream them in the secondary school setting. Primary and secondary school enrolment is virtually universal. There are a total of ten government primary schools on the islands. Of these, seven are large enough to organize pupils into single-grade classrooms. Pupils in these schools are generally grouped by age into mixed ability classes. The remaining three schools, because of their small pupil numbers, operate with multigrade groupings. They serve communities with small populations whose children cannot travel to a neighbouring larger primary school. Pupils in these classes span up to three grade and age groups.
+As far as classroom organization is concerned, the multigrade and monograde classrooms are similar in terms of the number of pupils and the general seating arrangements, with pupils in rows facing the blackboard. There is no evidence that the multigrade teachers operate in a particularly resource-poor environment in the Turks and Caicos Islands. This is in contrast to studies conducted in other developing country contexts.
+Question
+Read the text and answer the question by selecting all the correct responses. You will need to select more than one response.
+
+What do we learn in the last paragraph about multigrade classes in the Turks and Caicos Islands?
+
+Responses
+
+Teachers arrange the classroom furniture slightly differently in them.
+Teachers arrange the classroom furniture slightly differently in them.
+
+They tend to be smaller than monograde classes in the Islands.
+They tend to be smaller than monograde classes in the Islands.
+
+The classroom layout is much the same as in monograde classes.
+The classroom layout is much the same as in monograde classes.
+
+They tend to be larger than monograde classes in the Islands.
+They tend to be larger than monograde classes in the Islands.
+
+They are less well-resourced than monograde classes In the Turks and Caicos.
+They are less well-resourced than monograde classes In the Turks and Caicos.
+
+They are relatively better resourced than multigrade classes in other developing countries.
+They are relatively better resourced than multigrade classes in other developing countries.
+
+
+----
+
+
+Finding yourself adrift in a different culture might seem exciting when you're on holiday, but it's an entirely different proposition when you're living and working abroad. Codes of business practice may be radically different and the expatriate lifestyle can be lonely, yet many multinational companies have made little effort to prepare their employees.
+The advertising giant J Walter Thompson is a case in point. 'We call in global relocation specialists to handle the practicalities of moving home and children's education,' says a company spokesman. 'But most other things we leave to the individual. The people we send abroad are experienced international businessmen and women and we expect them to understand different cultural milieus. There will always be the odd problem but we would hope that these could be dealt with by our local staff.'
+But even with strong and knowledgeable support in the new country, Chris Crosby, managing director of TMA, a company that specialises in corporate cross-cultural changes, believes more is required. 'Most people can identify explicit differences which separate their culture from another and have little difficulty in adapting,' he says. 'More implicit differences are far harder to deal with. In the UK a business meeting is perceived as a place where a plan of action will be formulated and implemented. In other cultures, it is often just a forum for discussion. If you go abroad with the UK model as a preconception you might think that a meeting had been a disaster when it hadn't.
+Rather than getting people to adopt a different culture than their own, you have to help them adapt their own style to a new culture. Critical to this is understanding one's own culture. Without examining our own underlying perceptions it is unlikely we will get to grips with another,' Mr. Crosby says. 'But people are unpredictable and not all cross-cultural situations are cut and dried; many are ambiguous, so a key element of successful working practice is to concentrate on building relationships.'
+Question
+Read the text and answer the question by selecting all the correct responses. You will need to select more than one response.
+
+Which of the following statements would Mr Crosby be most likely to agree with?
+
+Responses
+
+Employees don't understand the difference between adopting and adapting to a different culture.
+Employees don't understand the difference between adopting and adapting to a different culture.
+
+Most people have differing ideas about their own culture.
+Most people have differing ideas about their own culture.
+
+Employees often don't understand their own culture clearly enough.
+Employees often don't understand their own culture clearly enough.
+
+People can cope better with another culture if they have a deep knowledge of their own culture.
+People can cope better with another culture if they have a deep knowledge of their own culture.
+
+Cross-cultural situations are often difficult to analyse.
+Cross-cultural situations are often difficult to analyse.
+
+
+---
+
+1.  #483 Martens' Diet
+    https://www.apeuni.com/en/practice/fib_rd/483
+
+    Studies of pine martens in Scotland have shown that the diet varies ________, with small mammals, berries (in late summer/autumn) and small birds being the main foods. Recent work in a plantation has shown that martens _________ their home ranges in areas dominated by forests and _________ shrubs. Within home ranges, martens utilise areas of grassy vegetation within the forest which are typically associated with Microtus voles, for which a strong selective _________ over other small mammals is shown.
+
+    lately  preference  seasonally  decision    establish   complicated     dense 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   seasonally, establish, dense, preference 
+
+
+
+2.  #165 Bees' Die-off
+    https://www.apeuni.com/en/practice/fib_rd/165
+
+    It sounds like something out of a science fiction movie — or nightmare: millions of honeybees _________ dying off, their bodies never found. Scientists have _________ the phenomenon "Colony Collapse Disorder," but they aren't _________ on the reason. Theories abound as to the _________ of the mass die-off, ranging from the unlikely (cellphones affecting bees' navigational abilities) to the more _________ though still debated (widespread pesticide use).
+
+    possibility     deliberating    suddenly    cause   named   united  authored    plausible 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   suddenly, named, united, cause, plausible 
+    :
+    plausible 
+        -    seeming reasonable or probable.
+
+
+
+3.  #481 Contagious Emotions
+    https://www.apeuni.com/en/practice/fib_rd/481
+
+    As research has shown, emotions are contagious. And empaths are especially _________ to others' emotional energies. Because they're so attuned to others, they can get easily exhausted in crowds, be drawn into codependent _________, exhaust themselves trying to solve others' problems, or burn out from too much caregiving. Yet empathy is also a gift that brings greater _________ and understanding. Some of the finest therapists, doctors, nurses, professors, writers, designers, musicians, artists, and leaders in many fields have been empaths.
+
+    relationships   confusion   issues  insight     sensitive   resistant   
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   sensitive, relationships, insight
+
+
+
+4.  #207 Shipwrecks
+    https://www.apeuni.com/en/practice/fib_rd/207
+
+    The people of Alaska's Aleutian Islands have long been accustomed to shipwrecks. They have been part of local consciousness since a Japanese whaling ship ran _________ near the western end of the 1,100-mile (1,800-km) volcanic _________ in 1780. This wreck inadvertently named one island Rat Island when the ship's rodents _________ ashore and made themselves at home.
+
+    aground     archipelago     scurried    succeeded   subsequent  vessel 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   aground,    archipelago,    scurried 
+    :
+    aground 
+        -   If a boat or ship is aground, it is unable to move because it is touching ground or in a place where there is very little water: 
+            The ship is currently aground off the Brittany coast.
+    scurry 
+        -   (of a person or small animal) move hurriedly with short quick steps.
+            "pedestrians scurried for cover"
+
+--
+
+The main focus of the lecture was the architecture which causes both pleasure and trouble. The first aspect was bad buildings, having serious impacts for hundreds of years. Furthermore, lecture mentioned about talking to an architect about beauty and ugliness. Additionally, the lecture presented information about architecture of the supermarket. In conclusion, the lecture suggested the things that we can say why a building works and why it doesn't.
+
+
+The main focus of the lecture was the architecture which causes both pleasure and trouble. The first aspect was bad buildings, having serious impacts for hundreds of years. Furthermore, the lecture mentioned about talking to an architect about beauty and ugliness. Additionally, the lecture presented architecture of the supermarket. In conclusion, the lecture suggested the things that we can say why a building works and why it doesn't.
+---
+
+You will hear a recording. Type the missing words in each blank.
+Audio Player
+ 
+
+0:39
+Question
+The New South Wales government has 
+apologized
+ for yesterday's transport chaos in and around Sydney Harbor during the visit of the Queen Mary II and the Queen Elizabeth II. Roads were jammed, traffic ground to a halt while train and 
+ferry
+ services were swamped with thousands of additional passengers, with most services delayed for hours. Premier Maurice Humor says that plans were put in place to "deal with the congestion" but the number of visitors well exceeded 
+expectations
+. On the harbor itself there seemed to be as much congestion as there was on the roads, but everyone agreed it was an amazing 
+spectacle
+.
+
+
+Many graduates graduate in of the journalism get gets job jobs on in the communication fields field.
+
+Observers waited nervously and with the held breath with for the concert.
+Observers observer waited nervously and with the held bread breath with for the concert.
+
+Rivers provide habitat habitats and navigating pathway pathways for numerous aquatic species.
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
