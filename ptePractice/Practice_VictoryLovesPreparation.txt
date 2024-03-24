@@ -4740,66 +4740,76 @@ ans
 # FIB - R 
 
 1. Funeral
-https://www.apeuni.com/en/practice/fib_rd/469
+    https://www.apeuni.com/en/practice/fib_rd/469
 
-An Australian sheep farmer paid his own unique _________ to his beloved aunt. Due to pandemic __________, Ben Jackson was unable to attend his aunt Deb_s funeral that took place 400 kilometers away. He ___________ grain in the shape of a heart in a field, so that thousands of sheep would come into the field and fill up the vast shape. Like many families______________ during the pandemic, Jackson wasn't able to say goodbye to a loved one, and he felt hopeless.
+    An Australian sheep farmer paid his own unique _________ to his beloved aunt. Due to pandemic __________, Ben Jackson was unable to attend his aunt Deb_s funeral that took place 400 kilometers away. He ___________ grain in the shape of a heart in a field, so that thousands of sheep would come into the field and fill up the vast shape. Like many families______________ during the pandemic, Jackson wasn't able to say goodbye to a loved one, and he felt hopeless.
 
-tribute budget restrictions scattered allowances separated harvested
-:
-:
-:
-:
-:
-ans 
-    -   tribute, restrictions, scattered, separated
+    tribute     budget  restrictions     scattered   allowances    separated  harvested    divided 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   tribute, restrictions, scattered, separated
+    :
+    Separated: 
+        This implies a sense of physical distance or isolation between family members. It suggests that the family members were apart from each other, possibly due to travel restrictions or other circumstances related to the pandemic.
+    Divided: 
+        This implies a sense of being split or fragmented, possibly emotionally or psychologically. 
+
+
 
 2. Psychology 
 
-Psychology as a subject of study has largely developed in the West since the late nineteenth century. During this period there has been an emphasis on scientific thinking. Because of this emphasis, there have been many scientific studies in psychology which ________ different aspects of human nature. These include studies into how biology (physical factors) influence human experience, how people use their __________ (touch, taste, smell, sight and hearing) to get to know the world, how people develop, why people behave in certain ways, how memory works, how people develop language, how people _________ and think about the world, what motivates people, why people have emotions and how personality develops. These scientific ________ all contribute to an understanding of human nature.
+    Psychology as a subject of study has largely developed in the West since the late nineteenth century. During this period there has been an emphasis on scientific thinking. Because of this emphasis, there have been many scientific studies in psychology which ________ different aspects of human nature. These include studies into how biology (physical factors) influence human experience, how people use their __________ (touch, taste, smell, sight and hearing) to get to know the world, how people develop, why people behave in certain ways, how memory works, how people develop language, how people _________ and think about the world, what motivates people, why people have emotions and how personality develops. These scientific ________ all contribute to an understanding of human nature.
 
-explore find senses feelings understand perform behave investigations findings
-:
-:
-:
-:
-:
-ans 
-    -   explore, senses, understand, investigations 
+    explore find senses feelings understand perform behave investigations findings
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   explore, senses, understand, investigations 
+
+
 
 3. Course Description
     https://www.apeuni.com/en/practice/fib_rd/140
 
-The UW course descriptions are _______ regularly during the academic year. All announcements in the General Catalog and Course Catalog are subject to change without ______ and do not constitute an ________ between the University of Washington and the student. Students should assume the responsibility of _________ the appropriate academic unit or adviser for more current or specific information.
+    The UW course descriptions are _______ regularly during the academic year. All announcements in the General Catalog and Course Catalog are subject to change without ______ and do not constitute an ________ between the University of Washington and the student. Students should assume the responsibility of _________ the appropriate academic unit or adviser for more current or specific information.
 
-updated new consulting agreement notice alarm contract enquiring
-:
-:
-:
-:
-:
-answer
-    -   updated, notice, agreement, consulting 
-:
-constitute 
-    be (a part) of a whole.
-        "lone parents constitute a great proportion of the poor"
-    give legal or constitutional form to (an institution); establish by law.
-        "the superior courts were constituted by the Judicature Acts 1873–5"
+    updated new consulting agreement notice alarm contract enquiring
+    :
+    :
+    :
+    :
+    :
+    answer
+        -   updated, notice, agreement, consulting 
+    :
+    constitute 
+        be (a part) of a whole.
+            "lone parents constitute a great proportion of the poor"
+        give legal or constitutional form to (an institution); establish by law.
+            "the superior courts were constituted by the Judicature Acts 1873–5"
+
 
 
 4. The Amount of Sleep
     https://www.apeuni.com/en/practice/fib_rd/137
 
-The amount of sleep you need depends on many _______, especially your age. Newborns sleep between 16 and 18 hours a day and preschool children should sleep between 10 and 12 hours. Older children and teens need at least nine hours to be well rested. For most adults, seven to eight hours a night appears to the best amount of sleep. However, for some people" enough sleep" may be as few as five hours or as many as 10 hours of sleep. As you get older, your sleeping ________ change. Older adults tend to sleep more lightly and awaken more frequently in the night than younger adults. This can have many causes including medical conditions and medications used to treat them. But there’s no evidence that older adults need less sleep than younger adults. Getting enough sleep is ________ to your health because it boosts your _________ system, which makes your body better able to fight disease. Sleep is necessary for your nervous system to work properly. Too little sleep makes you drowsy and unable to concentrate. It also impairs memory and physical performance. So how many hours of sleep are enough for You? Experts say that if you feel drowsy during the day — even during boring activities - you are not getting enough sleep. Also, quality of sleep is just as important as quantity. People whose sleep is frequently interrupted or cut short are not getting quality sleep. If you experience frequent daytime sleepiness, even after increasing the amount of quality sleep you get, talk to your doctor. He or she may be able to __________ the cause of sleep problems and offer advice on how to get a better night’s sleep.
+    The amount of sleep you need depends on many _______, especially your age. Newborns sleep between 16 and 18 hours a day and preschool children should sleep between 10 and 12 hours. Older children and teens need at least nine hours to be well rested. For most adults, seven to eight hours a night appears to the best amount of sleep. However, for some people" enough sleep" may be as few as five hours or as many as 10 hours of sleep. As you get older, your sleeping ________ change. Older adults tend to sleep more lightly and awaken more frequently in the night than younger adults. This can have many causes including medical conditions and medications used to treat them. But there’s no evidence that older adults need less sleep than younger adults. Getting enough sleep is ________ to your health because it boosts your _________ system, which makes your body better able to fight disease. Sleep is necessary for your nervous system to work properly. Too little sleep makes you drowsy and unable to concentrate. It also impairs memory and physical performance. So how many hours of sleep are enough for You? Experts say that if you feel drowsy during the day — even during boring activities - you are not getting enough sleep. Also, quality of sleep is just as important as quantity. People whose sleep is frequently interrupted or cut short are not getting quality sleep. If you experience frequent daytime sleepiness, even after increasing the amount of quality sleep you get, talk to your doctor. He or she may be able to __________ the cause of sleep problems and offer advice on how to get a better night’s sleep.
 
-factors elements contort immune reproductive important benevolent processes reasons respiration patterns identify
-:
-:
-:
-:
-:
-ans 
-    -   factors, patterns, important, immune, identify 
+    factors elements contort immune reproductive important benevolent processes reasons respiration patterns identify
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   factors, patterns, important, immune, identify 
 
 
 
