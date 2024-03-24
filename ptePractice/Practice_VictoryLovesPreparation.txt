@@ -136,6 +136,7 @@ pteMagicMockTest_17 on 16Mar2024  - did the speaking module
 pteMagicMockTest_18 on 22Mar2024  - Full
 pteMagicMockTest_19 on 23Mar2024  - Full
 pteMagicMockTest_20 on 23Mar2024  - Full
+pteMagicMockTest_21 on 24Mar2024  - Full
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
@@ -157,6 +158,113 @@ pteMagicMockTest_04
 
 Pearson scored practice test 
     https://ptea.learnosity.com/studentFW1/assess/assigned/category/Scored
+
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+On Sun24Mar2024
+
+----- -----
+
+pteMagicMockTest_21 on 24Mar2024
+
+
+----- -----
+
+
+
+----
+
+Read the text and answer the multiple-choice question by selecting the correct response. Only one response is correct.
+
+It has frequently been argued that freeing schools from the rigid rules, regulations, and statutes that have traditionally fettered them would have a revolutionary effect on academic achievement. For instance, it has been suggested that schools embodying this idea could develop more effective teaching methods that could then be replicated in other schools. Character schools public schools that operate under a contract, or "charter" were given just such an opportunity beginning in 1991 when Minnesota passed the first charter school law. At that time, many critics warned of deleterious rather than beneficial effects that such freewheeling schools could have on the academic achievement of students. Thus, while public opinion differed concerning the social desirability of charter schools, most agreed that there would be a pronounced effect. Surprisingly, educators who study educational reform now seriously question the degree to which charter schools have made an impact. That conclude that freedom from many of the policies and regulations affecting traditional public schools and the concomitant control over decisions that guide the day - to - day affairs of the School have not resulted in equally dramatic changes in student's academic performance. In some state performance standards than traditional public schools. It is, however, impossible to know whether this difference is due to the performance of the schools, the prior achievement of the students, or some other factor. Metrics for educational accountability have changed considerably in the past decade, moving increasingly to performance as measured by state mandated tests of individual student achievement. Fundamentally, however, the challenging conditions under which schools operate, be they traditional or charter, have changed little: the struggle for resources, low pay for teachers, accountability to multiple stakeholders, and the difficulty of meeting the educational requirements for children with special needs all persist.
+Which of the following statements best summarizes the main point of the passage?
+Charter schools, despite their merits, fail to overcome the long-standing problems in public education.
+
+Recent studies have shown that charter schools have had a revolutionary effect on student achievement.
+
+Freeing schools from some of the restrictions that govern them has caused a change in education since 1991.
+
+Charter schools have created a whole new way of educating children that did not previously exist.
+
+
+
+---
+
+The main focus was different types of families in the United States. The first crucial aspect revealed was that in an extended family grand parents and children live together. Furthermore, the lecture mentioned about a misconception that an extended family can pose much of a risk. Additionally, the lecture presented information about nuclear families. In conclusion, the lecture suggested that both nuclear families and extended families are good.
+
+---
+
+
+What comments are made about students in the Theatre Studies program?
+They are encouraged to focus their studies on modern productions.
+
+Past students offer them help.
+
+Students can work at their own pace.
+
+They need to be clear from the start about the area they want to work in.
+
+A high percentage complete the degree and get jobs in their field.
+
+
+--
+
+So between 4,000 and 3,000 BC the Mesopotamian Sumarian cultures do not 
+practice
+ any kind of burial. And then, about 3,000, in the early Dynastic Period, these burials start to reappear, and they reappear with a certain amount of 
+conspicuous
+ consumption, and this is the context for the royal burials at Ur. OK, so, the royal 
+cemetery
+ erm, consists of quite a number of pits, so these are little people, um, these are the, er, 
+excavation
+ workers who are coming down into the pits. So you get some sense of how really deep and how really difficult it was to construct these 
+chambers
+.
+
+The 
+notion
+ that you could create anything at all has major 
+implications
+ for our health. It means that we’ll 
+eventually
+ be able to 
+replicate
+ anything. This would have a 
+phenomenal
+ effect on our society. In time it could even lead to the 
+eradication
+ of famine through the introduction of machines that produce food to feed the hungry.
+
+
+Increasing combustion which leads to greenhouse gas emission is the major cause of global warming and climate change. Moreover, soot is also another big threat to human health which is produced by 
+incomplete
+ combustion of fossil fuel and 
+biomass
+. It is said that soot emission is one quarter more harmful to health than carbon dioxide is. It is not to say that we should 
+ignore
+ carbon dioxide emissions and greenhouse gases. The reduction of soot emission is the quickest and most 
+economical
+ way to tackle global warming in short-term. Therefore, global warming efforts should focus on reducing soot 
+particles
+ in order to slow global warming
+
+---
+
+
+All printers printer in this campus campuses the an a are out of the ink inks.
+
+Technology technology technologies has have changed the media medium medias mediums we both have used use and study studied.
+
+Manufacturing manufacturing now has in more peoples people than that in both industries industry agriculture and fishing combined.
+
+It's its it is in financial companies company's company companies' interest to in to save saving more people people's peoples money monies.
+
+
+
+
+----- -----
+
+
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
@@ -7903,6 +8011,7 @@ PTE Magic mock test 21
 The British government announced that, henceforth, all human remains archaeologically excavated in England and Wales should be reburied after a two-year period of scientific analysis, and archaeologists and other scientists were also concerned that this might be the first step towards a policy of reburying all human remains held in museum collections in England and Wales including prehistoric, Roman, Saxon, Viking and Medieval as well as more recent remains.
 
 ----- -----
+pteMagicMockTest_21 on 24Mar2024
 # FIB R&W
 
 1.
@@ -7919,12 +8028,16 @@ The British government announced that, henceforth, all human remains archaeologi
     :
     :
     :
-    my ans:
-        common, tremendous, old, steady, regardless of, varies 
     :
     https://speakenglish.b-cdn.net/wp-content/uploads/2020/04/Reading-Practice.pdf
     ans:
-        common, tremendous, [recent], steady, despite, varies 
+        common, tremendous, recent, steady, despite, varies 
+    :
+    The term "steady" 
+        is used in the context of describing a consistent and gradual decrease in cigarette consumption over time. It implies a continuous decline without sudden fluctuations or dramatic changes. This choice of word suggests a more stable and predictable trend in reducing smoking rates.
+    On the other hand, "significant" 
+        could imply a sudden or large decrease in cigarette consumption, which might not accurately reflect the gradual decline that has been observed over time in the context of the given passage. While the decrease in cigarette consumption is indeed important and noteworthy, 
+    "steady" better conveys the idea of a gradual and consistent decline.
     :
     regardless of :
         Regardless of the weather, the outdoor event will take place.
@@ -7954,9 +8067,6 @@ The British government announced that, henceforth, all human remains archaeologi
     :
     :
     :
-    my ans:
-        while, have afflicted, are falling, must have decreased, extension, nonetheless 
-    :
     https://myptebooking.com/2019/05/07/pte-reading-fib-practice-21-2/
     given ans:
         While, are afflicted,  are falling, must have decreased, variation, For this reason 
@@ -7985,9 +8095,6 @@ The British government announced that, henceforth, all human remains archaeologi
     :
     :
     :
-    :
-    my ans:
-        as, is intended, has developed, for, contributing 
     :
     coursehero
     https://www.coursehero.com/file/pldua26/231-Books-and-articles-highlighting-intractable-debt-poverty-and-development/
@@ -8021,9 +8128,6 @@ The British government announced that, henceforth, all human remains archaeologi
     :
     :
     :
-    :
-    my ans:
-        abundance, illusionary, sought, expeditions 
     :
     https://greatbarrierreef.org/
     given ans:
@@ -8104,9 +8208,6 @@ Nicotine is the key elements of tobacco
     :
     :
     :
-    my ans:
-        divided, coined, released, predicted, access 
-    :
     https://www.apeuni.com/en/practice/fib_rd/194
         divided, outlined, released, predicted, access 
     :
@@ -8123,10 +8224,6 @@ Nicotine is the key elements of tobacco
     :
     :
     :
-    :
-    :
-    my ans:
-        ocean, warmer, compensate, difference 
     :
     https://www.trypte.com/updated-reading-and-writing-fill-in-the-blanks62/
     Q62.

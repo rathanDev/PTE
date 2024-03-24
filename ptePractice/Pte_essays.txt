@@ -19,6 +19,42 @@ write 200-300 words
 
 -----
 
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+On Sun24Mar2024
+----- -----
+
+pteMagicMockTest_21 on 24Mar2024
+
+    The importance of the design of buildings has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of the design of buildings. In my opinion, the design of buildings affects, either positively or negatively, where people work and live, and it has more positive impacts than negatives around the globe.
+
+    To begin with, there are several factors in favor of my belief. The most prominent reason is that the people have strong attachments to their home and the workplace. According to the research conducted by Western Sydney University, more than sixty percent of couples attribute their home and its pleaseant design for their happy lives and eighty percent of employees believe that the design of their offices have a strong impact in their career success and pleasant work environment.
+
+    On the other hand, critics may point out that one of the most significant disadvantages is that people lose self-confidence when they think that the external factors such as design of buildings have an impact in their life. For instance, a survey conducted in the United States reveals that there is a correlation between people who believe that there is an impact of building designs in their life and the low self-confidence.
+
+    In conclusion, even when there are several demerits associated with the effects of building designs, the advantages outweigh the disadvantages and pleasant design of buildings has become a crucial part of our lives. Therefore, the efficient use of building designs should be promoted. However, its misuse should be condemned. 
+
+    > The most prominent reason is that the people have strong attachments
+                                        ^                                           no "the"
+
+    > attachments to their home
+                            ^                                                       homes
+
+    > pleasant design
+        ^                                                                           typo       
+
+    > design of their offices has a strong impact
+                                ^                                                   have 
+
+    > they think that the external factors
+                    ^                                                               no "the"
+
+----- -----
+
+
+----- -----
+
+
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Fri22Mar2024
 ----- -----
