@@ -364,12 +364,9 @@ Put responses in the correct input to answer the question. Select a response, na
     Responses
 
     Scientists have begun to estimate the age of both sharks and trees in the same way.
-    Scientists have begun to estimate the age of both sharks and trees in the same way.
 
     The life spans of two shark species have been seriously miscalculated.
-    The life spans of two shark species have been seriously miscalculated.
 
-    An old way of determining a shark’s age has proven to be inaccurate.
     An old way of determining a shark’s age has proven to be inaccurate.
 
     Sand tiger sharks and New Zealand porbeagle sharks have similar life spans.

@@ -35,6 +35,21 @@ In conclusion, even when there are several demerits associated with using music 
 
 > no typos
 
+> certain types of music which help to be calm
+                                  ^                              help 
+
+> certain types of music that help to be calm and focused
+                         ^                              ^
+
+> at night 
+  ^ 
+
+> Secondly, modern-age parents 
+           ^                                                    no the 
+
+> focusing deeply on their studies 
+                  ^
+
 ----- -----
 
 
