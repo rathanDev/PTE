@@ -169,7 +169,8 @@ pteMagicMockTest_19 on 23Mar2024  - Full
 pteMagicMockTest_20 on 23Mar2024  - Full
 pteMagicMockTest_21 on 24Mar2024  - Full
 PearsonScoredPracticeTestE on 24Mar2024  - Full
-pteMagicMockTest_22 on 26Mar2024  - 
+pteMagicMockTest_22 on 26Mar2024  - Full 
+PearsonScoredPracticeTestD on 26Mar2024  - Full
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
@@ -196,6 +197,298 @@ Pearson scored practice test
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Tue26Mar2024 
+----- -----
+
+PearsonScoredPracticeTestD
+
+----- -----
+
+Disabled people were among the early adopters of personal computers, and some became very knowledgeable about what could be achieved and used their knowledge to become independent students at a high level, but for some disability groups, information in electronic format (whether computer-based or internet-based) can be more accessible than printed information.
+
+> no typos 
+
+---
+
+# FIB_RW 
+
+#289 Eco-friendly Smoothies
+
+    Students at the University of Leicester have recently whizzed up a storm of eco-friendly smoothies. This comes as part of a week of events aimed at promoting environmental initiatives ________ campus. A range of events and activities were organized by the University Environment Team and the Students Union to encourage students to waste less, recycle _______, travel sustainably and save energy to contribute to the University’s target of cutting its carbon footprint _______ 60% by the year 2020.
+
+    The highlight of the week was a cycle-powered smoothie maker. Students rescued fruit from Leicester Market which would _____ have been thrown away and salvaged it to create delicious smoothies. ________ electricity was used as the fruit was whizzed up in a blender attached to the back of a bike pedalled by enthusiastic student volunteers.
+
+    off, on, in, at 
+    few, many, more, less 
+    throughout, by, through, about 
+    ever, also, otherwise, never 
+    No, The, None, Nonetheless 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   on, more, by, otherwise, No 
+
+
+
+#288 Different Attainments
+
+    In many areas of expertise, ranging from music, dance, art, and literature to sports, chess, mathematics, science, and foreign-language acquisition, there is abundant evidence that young people differ from one another in their attainments and in the apparent ease with which they achieve them. _________ within a family there may be marked differences: for example, a child who struggles at a musical instrument without ________ success may be overtaken by a younger sibling.
+
+    It is widely believed that the likelihood ________________ exceptionally competent in certain fields depends on the presence or absence of inborn attributes variously labelled “talents” or “gifts” or, less often, “natural aptitudes”. According to an informal British survey, more than three-quarters of music educators who decide _______________ young people are to receive instruction believe that children cannot do well unless they have special innate gifts (Davis 1994). The judgement that someone is talented is believed ______________ explain (as distinct from merely describing) that person’s success. It is also widely believed that the innate talent that makes it possible for an individual to excel can be detected in early childhood.
+
+    If, unless, though, even 
+    much, many, few, so 
+    become, of becoming, of become, to becoming
+    that, which, whether, this 
+    ever help, to help, helping, help 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   Even, much, of becoming, which, to help 
+
+
+#287 Academic Writing
+
+    Academic writing addresses complex issues that require high-order thinking skills to comprehend (e.g., critical, reflective, logical, and creative thinking). Think of your writing _______ way: One of the most important attributes of a good teacher is the ability to explain complex ideas in a way that is understandable and relatable to the topic being _______. This is also one of the main functions of academic writing - describing and explaining the significance of complex ideas as clearly as possible. Often _________ to as higher-order thinking skills, these include cognitive processes that are used to comprehend, solve problems, and express concepts or that describe abstract ideas that cannot be easily acted out, pointed to, or shown with images. As a writer, you must take _______ the role of a good teacher by summarizing a lot of complex information into a well-organized synthesis of ideas, concepts, and recommendations that _________ to a better understanding of the research problem.
+
+    no, this, either, a 
+    presented, surpassed, refunded, forgiven 
+    referred, prior, due, added 
+    out, off, down, on 
+    attribute, distribute, expose, contribute 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   this, presented, referred, on, contribute 
+
+
+
+#159 Forces of Globalization
+
+    Forces of globalization have acted on education internationally, creating greater standardization in norms of teaching and learning. There has always been considerable similarity between schools across context: the curriculum, for example has been shown ________ between language, mathematics, science and the arts in a comparable way in schools around the world. Likewise, school buildings in terms of their architecture share remarkable similarities internationally, _________ shared patterns of teaching and learning (although facilities and resources differ significantly.)
+
+    In recent years, globalization has created increased opportunities for the ‘borrowing’ of education policy and practice, and ________ further uniformity across national contexts. ________ has the internationalization of education been more apparent than in the higher education sector. The move to the internationalization of higher-education policy and practice ________ by increased student mobility, and the desire of universities to attract students from overseas.
+
+    being divided, to divide, to be dividing, to be divided 
+    for a result, without a result, as a result, resulted as 
+    duplicated, exempted, generated, dispensed 
+    Anywhere, somewhere, nowhere, everwhere 
+    was initially driving, had initially driven, was intially driven, initally drove 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   to be divided, as a result, generated, Nowhere, was intially driven 
+
+
+
+#290 Power Mix
+    https://www.apeuni.com/en/practice/fib_wr/290
+
+    Imagine a time in the not too distant future when your power comes from a seamless mix of renewable energy and traditional sources. It is delivered by a grid that manages thousands of windmills and hundreds of thousands of customers. Computer _________, the grid is able to manage instant variations in supply and demand and provides a real time power balance.
+
+    Far more complex than anything _________ existence today, it is called a smart grid. This technology is a new frontier in power supply and seen as a green solution to current outdated management systems. When introduced, smart grids will result in energy savings and will allow consumers a choice in their electricity charges and to be able to select the cheapest time ________. The difficulty for the energy industry is that smart grids _________ in reality and the power companies cannot experiment with existing supplies.
+
+    Without an actual grid to conduct research on, Professor Wu has had to design a simulated laboratory including input from theoretical wind generators and solar panels to feed into a constantly operating system. For an authentic approach researchers built various types of equipment failures ________ the grid to test the system.
+
+    controlled, has controlled, controls, controlling 
+    with, without, of, in 
+    cuts, pins, points, slots 
+    does not exist, do not exist, are not existing, not exist 
+    into, of, onto, above 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   controlled, in, slots, do not exist, into 
+
+
+
+
+Question
+In the text below some words are missing. Drag words from the box below to the appropriate place in the text. To undo an answer choice, drag the word back to the box below the text.
+Put responses in the correct input to answer the question. Select a response, navigate to the desired input and insert the response. Responses can be selected and inserted using the space bar, enter key, left mouse button or touchpad. Responses can also be moved by dragging with a mouse.
+
+-----
+
+# FIB_R 
+
+    It is difficult to underestimate the _____________ of an effective, modern Human Resources Management (HRM) function within an organization. An employee who _____________ from HRM twenty years ago would not _____________ the competence and capability of the best HRM organizations today. You can _____________ to move your HRM function out of the dark days and into the _____________. Organizations that do this are best served.
+
+    success importance vitality retired choose recognize reappeared light
+ 
+
+
+    International Women’s Day has been celebrated across the world since the early 1900s. Originally, its _____________ was to provide a forum for women to _____________ for equality and women’s rights. Over time it has evolved and now, in March each year, thousands of _____________ are held throughout the world to _____________ the progress that has been made, to inspire women and to celebrate their _____________.
+
+    acts help agree achievements recognize events campaign aim 
+
+
+
+    Rock gardening with alpine plants originated in England in the early 1900s, but rocks and stones being used as _____________ elements can be traced back to early Chinese and Japanese gardens. Traditionally, alpine plants were used when _____________ rock gardens. These plants are native to mountainous regions and grow above the tree _____________. They’ve adapted to harsh _____________ such as wind, cold, low moisture and a short growing _____________.
+
+    conditions area decorative season creating line theme temperatures 
+
+
+
+    Management accounting is concerned with providing information and _____________ to managers to help them plan, evaluate and control activities, in order to achieve an organisation’s _____________. Whereas financial accounting is concerned with reporting on the past financial performance of an organisation, management accounting is essentially concerned with improving its _____________ performance. In order to understand the _____________ and principles of management accounting it is necessary first to have some _____________ of what managers do!
+
+    concepts future objectives technology analysis appreciation kind facilities 
+
+
+
+
+
+------
+
+1
+    Scientists usually estimate how old sharks are by slicing through their spines and counting distinctive pairs of bands seen inside, which are often assumed to show age in the same way as the rings of a tree. But a growing number of cases are suggesting that the method can be problematic. For example, a 2014 study showed that sand tiger sharks (Carcharias taurus), which were thought to live for around two decades, can actually survive for up to twice that. And in 2007, researchers found that New Zealand porbeagle sharks (Lamna nasus) had been under-aged by an average of 22 years.
+    Question
+    Read the text and answer the multiple-choice question by selecting the correct response. Only one response is correct.
+
+    What is the main idea of the passage?
+
+    Responses
+
+    Scientists have begun to estimate the age of both sharks and trees in the same way.
+    Scientists have begun to estimate the age of both sharks and trees in the same way.
+
+    The life spans of two shark species have been seriously miscalculated.
+    The life spans of two shark species have been seriously miscalculated.
+
+    An old way of determining a shark’s age has proven to be inaccurate.
+    An old way of determining a shark’s age has proven to be inaccurate.
+
+    Sand tiger sharks and New Zealand porbeagle sharks have similar life spans.
+
+
+
+2.
+    This has been the decade of Artificial Intelligence (AI), with one astonishing feat after another. A chess-playing AI that can defeat not only all human chess players, but also all previous human-programmed chess machines, after learning the game in just four hours? That’s yesterday’s news, what’s next?
+
+    True, these accomplishments are all in so-called narrow AI, where machines perform highly specialised tasks. But many experts believe this restriction is very temporary. By mid-century, we may have artificial general intelligence (AGI) – machines that are capable of human-level performance on the full range of tasks that we ourselves can tackle.
+
+    Question
+    Read the text and answer the multiple-choice question by selecting the correct response. Only one response is correct.
+
+    What is the main idea of the article?
+
+    Responses
+
+    Machines powered by artificial intelligence may one day threaten our safety.
+    Machines powered by artificial intelligence may one day threaten our safety.
+
+    Experts feel our use of artificial intelligence will only be temporary.
+    Experts feel our use of artificial intelligence will only be temporary.
+
+    Machines will one day exceed the capabilities of humans.
+    Machines will one day exceed the capabilities of humans.
+
+    The capability of artificial intelligence is expanding rapidly.
+
+
+-----
+
+The main focus was population challenges of 21st century. The first aspect revealed was that population is changing and currently 7 billion people are in the planet. Furthermore, the lecture mentioned that half of them are living in urban areas. Additionally, the lecture also presented about distribution, migration and women having less children. In conclusion, the lecture suggested that there will be as many old people as young people.
+
+
+-----
+
+
+
+
+You will hear a recording. Type the missing words in each blank.
+Audio Player
+ 
+
+1 
+0:35
+    Question
+    So, palm oil is the most widely produced oil crop currently. It’s used in a wide range of 
+    industries
+    , including food for bio-fuels and in soaps and shampoos. However, the sector’s growing fast, and unfortunately palm oil grows in exactly the same 
+    environment
+    as tropical rain forest. So, the use and the 
+    development
+    of palm oil, the growth in the sector, is leading to wide-scale deforestation. What we’re hoping to do is if we can come up with a 
+    alternative
+    we can slow the growth of the sector and therefore stop the wide-scale 
+    deforestation
+    in south-east Asia.
+
+
+
+2
+    The earlier chocolate was quite unpalatable. It was erm they used to add things to it to make it erm more palatable, so the early chocolate, they didn’t know how to extract all the 
+    cocoa
+    fat from it, so it was - could be quite 
+    greasy
+    and if you made it as a drink you’d have this sort of scum on the top. So they used to try and add things to it, like 
+    starch
+    and things, to make it a more palatable product. So there were a lot of er 
+    scandals
+    around the kind of things they were adding to chocolate in the nineteenth century, so by the sort of 1870s, 1880s, there are people like Cadbury’s saying, our chocolate is absolutely pure. We have this new process, the Van Houten process which now extracts all this 
+    horrible
+    fat that we can use erm that to make eating chocolate. Now we have a pure product.
+
+
+
+
+---
+
+
+---
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----- -----
+
+
+"This is not a species-level choice. Individual birds consistently sit in places that enhance their own unique markings, ________ within a habitat and at a fine scale with regards to specific background sites."
+
+together, both, either, whether 
+:
+:
+:
+:
+:
+_both_ within a habitat and at a fine scale
+
+
+
+
 ----- -----
 
 pteMagicMockTest_22
