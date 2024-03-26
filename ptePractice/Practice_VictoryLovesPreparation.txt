@@ -16,6 +16,9 @@
     Read all options before choosing one        (wait, look for a better one)
     **** Read all options before choosing one
 
+# FIB_L
+    s    for verbs 
+
 # WFD 
     the .
     w1+w2       We've, you're, you'll, they're
@@ -148,6 +151,10 @@ Discordant:
     disagreeing
     Adjective:  Lacking harmony or agreement; conflicting. 
                 In music, it refers to a combination of tones that sounds harsh or unpleasant when played together.
+
+conflate
+    combine (two or more sets of information, texts, ideas, etc.) into one.
+    "the urban crisis conflates a number of different economic, political, and social issues"
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 
@@ -6688,7 +6695,7 @@ FIB - R&W
 
     Most chapters have a mixed exercise after the ________ work of the chapter has been completed. This will help you ________ what you have done, either when you have finished the chapter or at a later date. All chapters _______ with some mathematical puzzles and practical investigational work. For this work you are encouraged to _______ your ideas with others.
 
-    end main revise share teem downsize mingle bare
+    end     main    revise  share   teem    downsize    mingle  bare
     :
     :
     :
@@ -6697,12 +6704,13 @@ FIB - R&W
     ans 
         -   main,   revise,     end,    share 
 
+
 2. Customer service 
     https://www.apeuni.com/en/practice/fib_rd/442
 
     Promoting good customer service must start at the ________. If management doesn't realize how important this aspect of their business is, they will be at an _________ disadvantage in their industry. Good customer response _______ to loyal customers, which are the ________ of any successful business. No matter how much money you invest in your marketing, if you don't have the fundamental elements of your business right, it's wasted money.
 
-    top cornerstone instant cost equates incomplete equalizes
+    top     cornerstone     instant     cost    equates     incomplete      equalizes
     :
     :
     :
@@ -6715,12 +6723,13 @@ FIB - R&W
         consider (one thing) to be the same as or equivalent to another.
         "customers equate their name with quality"
 
+
 3.  Impressionist Painters
     https://www.apeuni.com/en/practice/fib_rd/126
 
     Early impressionist painters were considered ________ in their time because they broke many of the rules of the picture-making that had been set by earlier ________. They found many of their ________ in life around them rather than in history, which was then the accepted _________ of subject matter for paintings.
 
-    radical outcome subjects conciliatory generations creatures source
+    radical     outcome     subjects    conciliatory    generations     creatures       source
     :
     :
     :
@@ -6737,13 +6746,52 @@ FIB - R&W
         a complete/major/radical overhaul The firm's organizational infrastructure needed a major overhaul
 
         
-4.  in many large urban areas 
-    not found in apeUni 
+
+4.  not in apeUni 
+    not found in google 
+
+    In many large urban areas with highly ______ and often transient populations, identification and engagement with the local _____ can be low, often confounded by a more general ____ with formal politics. Younger people in _______ are voting less and turning more to single issue politics and more direct and immediate ________ of political expression such as petition, demonstrating and direct action.
+
+    forms, communication, particular, disenchantment, contrast, understanding, community, diverse 
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   
+        ChatGPT 
+            diverse, community, disenchantment, particular, forms 
+    :
+    disenchantment
+        -   a feeling of disappointment about someone or something you previously respected or admired; disillusionment.
+            "their growing disenchantment with the leadership"
+    Transient and non-resident populations 
+        -   are groups of people who do not stay in the city or town all day, every day. 
+            This may include commuters, traders, students, tourists, pilgrims, etc.
+    confounded 
+        -   confused 
+        -   used for emphasis, especially to express anger or annoyance.
+            "he was a confounded nuisance"
+
+
 
 5. Digital Media
     https://www.apeuni.com/en/practice/fib_rd/348
 
-6.
+    #348 Digital Media
+    Digital media and the internet have made the sharing of texts, music and images easier than ever, and the _________ of copyright restriction harder. This situation has encouraged the growth of IP law, and __________ increased industrial concentration on extending and 'policing' IP protection, while also leading to the growth of an 'open access', or 'creative commons' movement which _________ such control of knowledge and _______.
+
+    prompted    creativity      changed     enforcement     advocates       challenges      enactment       conformity
+    :
+    :
+    :
+    :
+    :
+    ans 
+        -   enforcement, prompted, challenges, creativity
+
+
 
 ----- ----- 
 
@@ -6756,7 +6804,8 @@ FIB - L
     hypothetically 
 
 2. Arts and Humanities 
-    archeology 
+    arch-aeo-logy
+    arch-aeo-logical 
 
 ----- ----- 
 
@@ -8033,6 +8082,7 @@ Almonds
 
 
 PTE Magic mock test 22 
+pteMagicMockTest_22
 
 magicnoel2023
 ----- ----- ----- -----
@@ -8049,15 +8099,15 @@ Since 120,000 types of protein molecules have yielded up their structures to sci
 
 # Essay 
 
-As cities expand, governments should look forward to creating better networks of public transport available for everyone rather than building more roads for vehicle owning population. To what extent do you agree or disagree?
+    As cities expand, governments should look forward to creating better networks of public transport available for everyone rather than building more roads for vehicle owning population. To what extent do you agree or disagree?
 
-The topic has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of the topic. In my opinion, the topic has more positive impacts than negatives around the globe.
+    The topic has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of the topic. In my opinion, the topic has more positive impacts than negatives around the globe.
 
-To begin with, there are several factors in favor of my belief. The most prominent one is that ex. According to the research conducted by Western Sydney University, ex. Secondly, ex.
+    To begin with, there are several factors in favor of my belief. The most prominent one is that ex. According to the research conducted by Western Sydney University, ex. Secondly, ex.
 
-On the other hand, critics may point out that one of the most significant disadvantages is that ex. For instance, a survey conducted in the United States reveals that ex.
+    On the other hand, critics may point out that one of the most significant disadvantages is that ex. For instance, a survey conducted in the United States reveals that ex.
 
-In conclusion, even when there are a lot of demerits associated with the topic, the advantages outweigh the disadvantages and the topic has become a  crucial part of our lives. Therefore, the efficient use of topic should be promoted. However, its misuse should be condemned.
+    In conclusion, even when there are a lot of demerits associated with the topic, the advantages outweigh the disadvantages and the topic has become a  crucial part of our lives. Therefore, the efficient use of topic should be promoted. However, its misuse should be condemned.
 
 
 ----- ----- ----- -----
@@ -8229,8 +8279,6 @@ FIB R&W
     :
     :
     :
-    my ans:
-        adds to, support, regulating, reliable 
     https://www.apeuni.com/en/practice/fib_wr/575 :
         relies on, support, regulating, reliable 
     :
@@ -8264,8 +8312,6 @@ FIB R&W
     :
     :
     :
-    my ans:
-        among, however, increase, according to 
     https://www.apeuni.com/en/practice/fib_wr/300 :
     given ans
         among, meanwhile, increase, according to 
@@ -8323,8 +8369,6 @@ FIB R&W
     :
     :
     :
-    my ans:
-        coords, others, wellbeing, centers, ties 
     https://www.apeuni.com/en/practice/fib_rd/303 :
         coords, others, wellbeing, practitioners, ties 
 
@@ -8339,8 +8383,6 @@ FIB R&W
     :
     :
     :
-    my ans:
-        identical, introduction, independent 
     https://www.apeuni.com/en/practice/fib_rd/148 :
         identical, introduction, independent 
 
@@ -8355,8 +8397,6 @@ FIB R&W
     :
     :
     :
-    my ans:
-        instructed, dosing, outpatient, penned, translated 
     https://www.apeuni.com/en/practice/fib_rd/379 :
         urged,      dosing, outpatient, penned, translated 
 
