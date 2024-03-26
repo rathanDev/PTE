@@ -21,6 +21,54 @@ write 200-300 words
 
 
 # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
+On Tue26Mar2024
+
+pteMagicMockTest_22
+----- -----
+
+# public transport
+
+    The importance of public transportation has become an integral part of the rising debate in the present world. While proponents of the argument are in favor, the opponents are completely against the relevance of public transportation in a developing city. In my opinion, as cities expand, governments should look forward to creating better networks of public transport for everyone and it has more positive impacts than negatives around the city.
+
+    To begin with, there are several factors in favor of my belief. The most prominent reason is that as it's obvious that human population is growing rapidly and the space in a city is limited, the right solution for the transportation is building better networks of public transport. According to the research conducted by Western Sydney Univerisity, ninety percent of developed countries discourage individuals to own private vehicles by imposing heavy tax for personal cars and providing a convenient public transportation option. Secondly, public transporation will help to reduce the carbon emission which will help us fight the climate change as well.
+
+    On the other hand, critics may point out that one of the most significant disadvantages is that the inconvenience caused by public transportation due to congestion and long waiting time. For instance, a survey conducted in the United States reveals that majority of people who work in office and use public transport system are not satisfied with bus and train services because they always come late and very crowded both in the mornings and the evenings.
+
+    In conclusion, even when there are several demerits associated with public transportation, the advantages outweigh the disadvantages and public transportation has become a crucial part of our lives. Therefore, efficient use of public transportation should be promoted. However, its misuse should be condemned.
+
+    > discourage individuals from owning private vehicles 
+                            ^
+    > by imposing heavy taxes 
+                           ^
+    > public transportation 
+                     ^
+    > always arrive late 
+             ^   
+    > and are very crowded 
+          ^
+
+
+----
+
+The main focus was travelling around the world in thirteen hundreds (1300) to forteen hundreds (1400). The first aspect revealed was about travelling books in library. Furthermore, another significant point mentioned in the lecture was about embarking a journey to Middle East, Africa and Asia. Additionally, the lecture presented information about foreign lands and travelling. In conlusion, the lecture suggested that how foreign looks like was intimidating and unknown.
+
+> from thirteen hundred to fourteen hundred
+   ^                  ^      ^
+
+> embarking on a journey 
+            ^
+
+> to the Middle East, Africa, and Asia 
+     ^                      ^ 
+
+> In conclusion,                                        typo :@
+        ^
+
+
+----
+
+
+# ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # # ----- ----- ----- ----- ----- # 
 On Sun24Mar2024
 ----- -----
 
